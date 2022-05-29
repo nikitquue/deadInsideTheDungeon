@@ -10101,3 +10101,569 @@ Continue: Skip saving this asset only.
 [2022.05.29-17.30.01:445][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pause_menu/pause_menu_widg]
 [2022.05.29-17.30.01:500][796]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/pause_menu_widg_Auto37E4E303D493ADF42855869846DD335B6.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Autosaves/Game/Pause_menu/pause_menu_widg_Auto3.uasset'
 [2022.05.29-17.30.01:501][796]LogFileHelpers: Auto-saving content packages took 0.281
+[2022.05.29-17.32.30:326][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.29-17.32.32:318][912]LogSlate: Window 'Save Content' being destroyed
+[2022.05.29-17.32.32:472][912]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Option_widget848A047C49920164B0C2B8B2BE328D8A.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/Main_menu/Option_widget.uasset'
+[2022.05.29-17.32.32:531][912]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/pause_menu_widg320F27944DE18675CA2140BBB3323916.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/Pause_menu/pause_menu_widg.uasset'
+[2022.05.29-17.32.32:639][912]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/UI_PlayerHUDFD7E12F6450B1397C7F91C9F3B3DE984.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/DeadInside/Widget/UI_PlayerHUD.uasset'
+[2022.05.29-17.32.32:932][912]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_2.Map_2
+[2022.05.29-17.32.32:932][912]LightingResults: New page: Lighting Build
+[2022.05.29-17.32.32:932][912]LoadErrors: New page: Loading map: Map_2.umap
+[2022.05.29-17.32.32:935][912]LogWorld: UWorld::CleanupWorld for Main_menu, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-17.32.32:935][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-17.32.32:936][912]MapCheck: New page: Map Check
+[2022.05.29-17.32.32:936][912]LightingResults: New page: Lighting Build
+[2022.05.29-17.32.32:957][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.29-17.32.32:960][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.29-17.32.32:962][912]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_2'.
+[2022.05.29-17.32.33:051][912]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.29-17.32.33:051][912]LogAIModule: Creating AISystem for world Map_2
+[2022.05.29-17.32.33:076][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.05.29-17.32.33:081][912]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-17.32.33:081][912]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,149ms to complete.
+[2022.05.29-17.32.33:081][912]LogFileHelpers: Loading map 'Map_2' took 0.149
+[2022.05.29-17.32.33:101][912]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.29-17.32.33:101][912]LogContentValidation: Display: Validating WidgetBlueprint /Game/DeadInside/Widget/UI_PlayerHUD.UI_PlayerHUD
+[2022.05.29-17.32.33:102][912]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main_menu/Option_widget.Option_widget
+[2022.05.29-17.32.33:102][912]LogContentValidation: Display: Validating WidgetBlueprint /Game/Pause_menu/pause_menu_widg.pause_menu_widg
+[2022.05.29-17.32.40:524][336]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.05.29-17.32.44:810][583]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B2)
+[2022.05.29-17.32.46:733][695]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Weapon_Stand_Gr_B_Blueprint_C (SM_Weapon_Stand_Gr_B_Blueprint)
+[2022.05.29-17.32.47:456][737]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WP_Shield_10)
+[2022.05.29-17.32.48:078][773]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B2)
+[2022.05.29-17.32.48:717][810]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3C_Door)
+[2022.05.29-17.32.49:773][872]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B)
+[2022.05.29-17.32.52:097][ 10]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.29-17.32.52:498][ 33]Cmd: TRANSACTION UNDO
+[2022.05.29-17.32.52:498][ 33]LogEditorTransaction: Undo Move Actors
+[2022.05.29-17.32.55:398][186]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.29-17.32.56:172][230]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3A)
+[2022.05.29-17.32.56:787][266]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B3)
+[2022.05.29-17.32.58:423][363]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3A2)
+[2022.05.29-17.33.09:146][  3]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2B)
+[2022.05.29-17.33.10:264][ 69]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2A4)
+[2022.05.29-17.33.12:118][179]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.29-17.33.12:369][193]Cmd: TRANSACTION UNDO
+[2022.05.29-17.33.12:369][193]LogEditorTransaction: Undo Move Actors
+[2022.05.29-17.33.16:462][417]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2A3)
+[2022.05.29-17.33.18:035][509]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2A4)
+[2022.05.29-17.33.19:805][613]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2A3)
+[2022.05.29-17.33.22:331][761]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Roof_2B)
+[2022.05.29-17.33.25:019][921]Cmd: TRANSACTION UNDO
+[2022.05.29-17.33.25:019][921]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.29-17.33.25:488][934]Cmd: TRANSACTION UNDO
+[2022.05.29-17.33.25:488][934]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.29-17.33.25:659][941]Cmd: TRANSACTION UNDO
+[2022.05.29-17.33.25:659][941]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.29-17.33.25:835][949]Cmd: TRANSACTION UNDO
+[2022.05.29-17.33.25:835][949]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.29-17.33.26:008][959]Cmd: TRANSACTION UNDO
+[2022.05.29-17.33.26:008][959]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.29-17.33.26:789][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ladder3)
+[2022.05.29-17.33.27:949][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ladder3)
+[2022.05.29-17.33.31:462][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.33.32:615][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2022.05.29-17.33.33:403][388]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (Player Start)
+[2022.05.29-17.33.34:308][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2022.05.29-17.33.34:835][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2022.05.29-17.33.36:058][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.33.36:734][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.33.40:787][824]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2022.05.29-17.33.43:129][963]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B)
+[2022.05.29-17.33.44:054][ 17]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3C_Door)
+[2022.05.29-17.33.44:709][ 55]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B2)
+[2022.05.29-17.33.45:334][ 91]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Weapon_Stand_Gr_B_Blueprint_C (SM_Weapon_Stand_Gr_B_Blueprint)
+[2022.05.29-17.33.46:407][154]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WP_Shield_10)
+[2022.05.29-17.33.49:337][328]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Lantern_3_Blueprint_C (SM_Lantern_3_Blueprint)
+[2022.05.29-17.33.52:697][525]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B3)
+[2022.05.29-17.33.53:420][567]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3A)
+[2022.05.29-17.33.56:044][718]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3A2)
+[2022.05.29-17.34.01:354][ 31]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B20)
+[2022.05.29-17.34.02:863][120]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Cupboard_2_Gr_A_Blueprint_C (SM_Cupboard_2_Gr_A_Blueprint)
+[2022.05.29-17.34.06:310][324]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B20)
+[2022.05.29-17.34.07:963][420]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B20)
+[2022.05.29-17.34.10:943][596]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WP_Axe_8)
+[2022.05.29-17.34.12:071][662]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B19)
+[2022.05.29-17.34.16:043][890]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B18)
+[2022.05.29-17.34.19:129][ 65]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B17)
+[2022.05.29-17.34.19:961][113]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Paint_2)
+[2022.05.29-17.34.20:636][152]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door2)
+[2022.05.29-17.34.21:762][218]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_FirePlace_6m_Blueprint_C (SM_FirePlace_6m_Blueprint)
+[2022.05.29-17.34.40:406][311]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B4)
+[2022.05.29-17.34.41:531][377]Cmd: ACTOR SELECT ALL
+[2022.05.29-17.34.42:452][431]Cmd: ACTOR SELECT ALL
+[2022.05.29-17.34.43:893][517]Cmd: TRANSACTION UNDO
+[2022.05.29-17.34.43:893][517]LogEditorTransaction: Undo Select All
+[2022.05.29-17.34.47:906][730]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Beam_9)
+[2022.05.29-17.34.48:576][769]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3A3)
+[2022.05.29-17.34.49:368][815]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B)
+[2022.05.29-17.34.51:282][928]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3A3)
+[2022.05.29-17.34.56:858][248]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3A4)
+[2022.05.29-17.34.57:883][308]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3A5)
+[2022.05.29-17.35.02:810][585]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B5)
+[2022.05.29-17.35.05:720][758]Cmd: EDIT COPY
+[2022.05.29-17.35.11:921][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.05.29-17.35.13:597][108]LogSlate: Window 'Save Content' being destroyed
+[2022.05.29-17.35.13:646][108]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/LevelTutorial.LevelTutorial
+[2022.05.29-17.35.13:646][108]Cmd: MAP LOAD FILE="../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.29-17.35.13:646][108]LightingResults: New page: Lighting Build
+[2022.05.29-17.35.13:647][108]LoadErrors: New page: Loading map: LevelTutorial.umap
+[2022.05.29-17.35.13:650][108]LogWorld: UWorld::CleanupWorld for Map_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-17.35.13:650][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-17.35.13:650][108]MapCheck: New page: Map Check
+[2022.05.29-17.35.13:650][108]LightingResults: New page: Lighting Build
+[2022.05.29-17.35.13:671][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.29-17.35.13:675][108]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.29-17.35.13:676][108]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTutorial'.
+[2022.05.29-17.35.13:741][108]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.29-17.35.13:741][108]LogAIModule: Creating AISystem for world LevelTutorial
+[2022.05.29-17.35.13:766][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.05.29-17.35.13:770][108]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-17.35.13:771][108]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,15ms to complete.
+[2022.05.29-17.35.13:771][108]LogFileHelpers: Loading map 'LevelTutorial' took 0.124
+[2022.05.29-17.35.15:969][235]Cmd: EDIT PASTE
+[2022.05.29-17.35.15:992][235]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.29-17.35.20:670][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor10)
+[2022.05.29-17.35.21:473][561]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor11)
+[2022.05.29-17.35.21:989][591]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor12)
+[2022.05.29-17.35.22:538][623]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor9)
+[2022.05.29-17.35.23:186][661]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor8)
+[2022.05.29-17.35.24:222][722]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor7)
+[2022.05.29-17.35.54:300][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor6)
+[2022.05.29-17.36.11:799][569]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor5)
+[2022.05.29-17.37.15:961][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.37.16:565][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor5)
+[2022.05.29-17.37.27:101][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.37.32:648][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor6)
+[2022.05.29-17.37.41:595][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2022.05.29-17.37.43:098][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor6)
+[2022.05.29-17.37.54:247][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2022.05.29-17.37.54:885][681]LogEditorViewport: Clicking Background
+[2022.05.29-17.38.02:230][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor6)
+[2022.05.29-17.38.05:955][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor5)
+[2022.05.29-17.38.08:426][490]LogEditorViewport: Clicking Background
+[2022.05.29-17.38.16:849][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2022.05.29-17.38.19:640][161]Cmd: TRANSACTION UNDO
+[2022.05.29-17.38.19:641][161]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.29-17.38.32:826][903]LogEditorViewport: Clicking Background
+[2022.05.29-17.38.37:317][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2022.05.29-17.38.45:211][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.38.45:865][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2022.05.29-17.38.46:986][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor11)
+[2022.05.29-17.38.48:395][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.38.49:167][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2022.05.29-17.38.50:705][967]LogEditorViewport: Clicking Background
+[2022.05.29-17.38.59:721][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor11)
+[2022.05.29-17.39.00:428][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.39.02:652][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.39.06:794][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2022.05.29-17.39.11:234][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor11)
+[2022.05.29-17.39.12:939][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2022.05.29-17.39.15:248][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.39.21:993][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4)
+[2022.05.29-17.39.23:211][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor5)
+[2022.05.29-17.39.26:048][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.39.26:815][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor6)
+[2022.05.29-17.39.28:953][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4)
+[2022.05.29-17.39.30:973][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2022.05.29-17.39.32:074][181]LogEditorViewport: Clicking Background
+[2022.05.29-17.39.58:289][680]LogEditorViewport: Clicking on Actor (LMB): FullTorch_C (FullTorch3)
+[2022.05.29-17.40.16:340][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor11)
+[2022.05.29-17.40.17:465][824]LogEditorViewport: Clicking on Actor (LMB): FullTorch_C (FullTorch3)
+[2022.05.29-17.41.01:874][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Book_7)
+[2022.05.29-17.41.03:843][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cupboard_4)
+[2022.05.29-17.41.06:952][610]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Book_7)
+[2022.05.29-17.41.07:985][671]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Book_4)
+[2022.05.29-17.41.08:668][711]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Book_5)
+[2022.05.29-17.41.24:651][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor11)
+[2022.05.29-17.41.28:840][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cupboard_4)
+[2022.05.29-17.41.30:086][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor9)
+[2022.05.29-17.41.31:493][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Cupboard_4)
+[2022.05.29-17.41.32:234][114]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Book_7)
+[2022.05.29-17.41.33:621][196]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Book_5)
+[2022.05.29-17.41.35:637][316]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Book_4)
+[2022.05.29-17.41.50:578][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A4)
+[2022.05.29-17.41.51:159][242]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3A3)
+[2022.05.29-17.41.51:926][287]Cmd: DELETE
+[2022.05.29-17.41.51:926][287]Cmd: ACTOR DELETE
+[2022.05.29-17.41.51:932][287]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-17.41.51:933][287]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-17.41.51:969][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.05.29-17.41.51:973][287]LogEditorActor: Deleted 2 Actors (0.046 secs)
+[2022.05.29-17.41.52:951][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A2)
+[2022.05.29-17.41.53:449][375]Cmd: DELETE
+[2022.05.29-17.41.53:449][375]Cmd: ACTOR DELETE
+[2022.05.29-17.41.53:451][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-17.41.53:472][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.29-17.41.53:473][375]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2022.05.29-17.42.07:669][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A)
+[2022.05.29-17.42.08:388][265]Cmd: DELETE
+[2022.05.29-17.42.08:388][265]Cmd: ACTOR DELETE
+[2022.05.29-17.42.08:390][265]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.29-17.42.08:412][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.29-17.42.08:413][265]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.05.29-17.42.15:562][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.29-17.42.15:621][689]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/LevelTutorial64E1728B4AF170053D587E8E787C8CB1.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial.umap'
+[2022.05.29-17.42.15:656][689]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/LevelTutorial_BuiltDataD82D33834B19D220D59A98BD15A3F520.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial_BuiltData.uasset'
+[2022.05.29-17.42.15:671][689]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.29-17.42.15:671][689]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/LevelTutorial.LevelTutorial
+[2022.05.29-17.42.15:671][689]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/LevelTutorial_BuiltData.LevelTutorial_BuiltData
+[2022.05.29-17.42.42:037][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.05.29-17.42.42:097][212]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_2.Map_2
+[2022.05.29-17.42.42:097][212]LightingResults: New page: Lighting Build
+[2022.05.29-17.42.42:098][212]LoadErrors: New page: Loading map: Map_2.umap
+[2022.05.29-17.42.42:099][212]LogWorld: UWorld::CleanupWorld for LevelTutorial, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-17.42.42:099][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-17.42.42:099][212]MapCheck: New page: Map Check
+[2022.05.29-17.42.42:099][212]LightingResults: New page: Lighting Build
+[2022.05.29-17.42.42:121][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.29-17.42.42:124][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.05.29-17.42.42:125][212]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_2'.
+[2022.05.29-17.42.42:213][212]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.29-17.42.42:213][212]LogAIModule: Creating AISystem for world Map_2
+[2022.05.29-17.42.42:238][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.05.29-17.42.42:242][212]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-17.42.42:242][212]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,141ms to complete.
+[2022.05.29-17.42.42:242][212]LogFileHelpers: Loading map 'Map_2' took 0.145
+[2022.05.29-17.42.45:237][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2022.05.29-17.42.45:928][427]Cmd: EDIT COPY
+[2022.05.29-17.42.57:200][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.29-17.42.57:229][ 62]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Main_menu.Main_menu
+[2022.05.29-17.42.57:229][ 62]Cmd: MAP LOAD FILE="../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Main_menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.29-17.42.57:229][ 62]LightingResults: New page: Lighting Build
+[2022.05.29-17.42.57:229][ 62]LoadErrors: New page: Loading map: Main_menu.umap
+[2022.05.29-17.42.57:232][ 62]LogWorld: UWorld::CleanupWorld for Map_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-17.42.57:232][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-17.42.57:232][ 62]MapCheck: New page: Map Check
+[2022.05.29-17.42.57:232][ 62]LightingResults: New page: Lighting Build
+[2022.05.29-17.42.57:254][ 62]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.29-17.42.57:258][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.05.29-17.42.57:259][ 62]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_menu'.
+[2022.05.29-17.42.57:277][ 62]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.29-17.42.57:277][ 62]LogAIModule: Creating AISystem for world Main_menu
+[2022.05.29-17.42.57:302][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.05.29-17.42.57:306][ 62]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-17.42.57:306][ 62]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,12ms to complete.
+[2022.05.29-17.42.57:306][ 62]LogFileHelpers: Loading map 'Main_menu' took 0.077
+[2022.05.29-17.42.59:260][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.29-17.42.59:349][170]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/LevelTutorial.LevelTutorial
+[2022.05.29-17.42.59:350][170]Cmd: MAP LOAD FILE="../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.29-17.42.59:350][170]LightingResults: New page: Lighting Build
+[2022.05.29-17.42.59:350][170]LoadErrors: New page: Loading map: LevelTutorial.umap
+[2022.05.29-17.42.59:351][170]LogWorld: UWorld::CleanupWorld for Main_menu, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-17.42.59:351][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-17.42.59:351][170]MapCheck: New page: Map Check
+[2022.05.29-17.42.59:351][170]LightingResults: New page: Lighting Build
+[2022.05.29-17.42.59:373][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.29-17.42.59:376][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.05.29-17.42.59:376][170]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTutorial'.
+[2022.05.29-17.42.59:448][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.29-17.42.59:448][170]LogAIModule: Creating AISystem for world LevelTutorial
+[2022.05.29-17.42.59:474][170]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.05.29-17.42.59:479][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-17.42.59:479][170]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,129ms to complete.
+[2022.05.29-17.42.59:479][170]LogFileHelpers: Loading map 'LevelTutorial' took 0.129
+[2022.05.29-17.43.00:562][233]LogEditorViewport: Clicking Background
+[2022.05.29-17.43.05:099][503]Cmd: EDIT PASTE
+[2022.05.29-17.43.06:045][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3C_Door)
+[2022.05.29-17.43.06:863][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3C_Door)
+[2022.05.29-17.43.07:265][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor8)
+[2022.05.29-17.43.24:623][670]Cmd: DELETE
+[2022.05.29-17.43.24:623][670]Cmd: ACTOR DELETE
+[2022.05.29-17.43.24:625][670]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.05.29-17.43.24:647][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.05.29-17.43.24:649][670]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2022.05.29-17.43.55:811][540]Cmd: TRANSACTION UNDO
+[2022.05.29-17.43.55:812][540]LogEditorTransaction: Undo Delete Actors
+[2022.05.29-17.44.31:125][558]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.29-17.44.33:745][715]Cmd: TRANSACTION UNDO
+[2022.05.29-17.44.33:745][715]LogEditorTransaction: Undo Edit Environment Color
+[2022.05.29-17.44.51:456][757]Cmd: DELETE
+[2022.05.29-17.44.51:456][757]Cmd: ACTOR DELETE
+[2022.05.29-17.44.51:458][757]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.05.29-17.44.51:481][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.29-17.44.51:484][757]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2022.05.29-17.45.09:269][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_2)
+[2022.05.29-17.45.12:021][988]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Lantern_2)
+[2022.05.29-17.45.15:811][214]Cmd: TRANSACTION UNDO
+[2022.05.29-17.45.15:811][214]LogEditorTransaction: Undo Move Actors
+[2022.05.29-17.45.19:490][412]LogEditorViewport: Clicking on Actor (LMB): Emitter (Dust_P)
+[2022.05.29-17.45.27:416][886]Cmd: TRANSACTION UNDO
+[2022.05.29-17.45.27:416][886]LogEditorTransaction: Undo Move Actors
+[2022.05.29-17.45.27:839][898]Cmd: TRANSACTION UNDO
+[2022.05.29-17.45.27:839][898]LogEditorTransaction: Undo Move Actors
+[2022.05.29-17.45.28:353][922]Cmd: TRANSACTION UNDO
+[2022.05.29-17.45.28:353][922]LogEditorTransaction: Undo Move Actors
+[2022.05.29-17.45.29:337][981]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor10)
+[2022.05.29-17.45.31:298][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor9)
+[2022.05.29-17.45.33:995][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_2)
+[2022.05.29-17.45.38:249][504]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Lantern_2)
+[2022.05.29-17.45.49:650][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_2)
+[2022.05.29-17.45.51:404][291]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Table_2)
+[2022.05.29-17.45.52:220][339]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Lantern_2)
+[2022.05.29-17.45.53:169][395]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Dust_P)
+[2022.05.29-17.45.55:062][507]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Lantern_2)
+[2022.05.29-17.46.24:905][291]LogEditorViewport: Clicking on Actor (LMB): FullTorch_C (FullTorch3)
+[2022.05.29-17.46.26:435][382]Cmd: DUPLICATE
+[2022.05.29-17.46.26:435][382]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.47.06:243][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor11)
+[2022.05.29-17.47.06:981][811]LogEditorViewport: Clicking Background
+[2022.05.29-17.47.15:257][307]LogEditorViewport: Clicking on Actor (LMB): FullTorch_C (FullTorch4)
+[2022.05.29-17.47.15:971][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2022.05.29-17.47.16:591][385]LogEditorViewport: Clicking on Actor (LMB): FullTorch_C (FullTorch4)
+[2022.05.29-17.47.18:892][522]LogEditorViewport: Clicking on Actor (LMB): FullTorch_C (FullTorch4)
+[2022.05.29-17.47.19:429][554]LogEditorViewport: Clicking on Actor (LMB): FullTorch_C (FullTorch4)
+[2022.05.29-17.47.19:865][580]LogEditorViewport: Clicking on Component (LMB): ChildActorComponent (PointLight_1)
+[2022.05.29-17.47.20:739][632]LogEditorViewport: Clicking on Component (LMB): ChildActorComponent (PointLight_1)
+[2022.05.29-17.47.31:687][288]LogEditorViewport: Clicking Background
+[2022.05.29-17.47.52:368][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.29-17.47.52:434][238]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/LevelTutorial3C893C6141BCCD514DCD3CA16B1C087B.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial.umap'
+[2022.05.29-17.47.52:466][238]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/LevelTutorial_BuiltData67B777B442BAB45D80CEFF92E5B9F954.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial_BuiltData.uasset'
+[2022.05.29-17.47.52:480][238]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.29-17.47.52:480][238]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/LevelTutorial.LevelTutorial
+[2022.05.29-17.47.52:480][238]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/LevelTutorial_BuiltData.LevelTutorial_BuiltData
+[2022.05.29-17.48.00:273][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.05.29-17.48.00:345][887]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_2.Map_2
+[2022.05.29-17.48.00:345][887]LightingResults: New page: Lighting Build
+[2022.05.29-17.48.00:345][887]LoadErrors: New page: Loading map: Map_2.umap
+[2022.05.29-17.48.00:375][887]LogWorld: UWorld::CleanupWorld for LevelTutorial, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-17.48.00:375][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-17.48.00:375][887]MapCheck: New page: Map Check
+[2022.05.29-17.48.00:375][887]LightingResults: New page: Lighting Build
+[2022.05.29-17.48.00:402][887]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.29-17.48.00:406][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.05.29-17.48.00:407][887]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_2'.
+[2022.05.29-17.48.00:528][887]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.29-17.48.00:528][887]LogAIModule: Creating AISystem for world Map_2
+[2022.05.29-17.48.00:558][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.05.29-17.48.00:563][887]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-17.48.00:563][887]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,176ms to complete.
+[2022.05.29-17.48.00:563][887]LogFileHelpers: Loading map 'Map_2' took 0.218
+[2022.05.29-17.48.08:705][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Beam_18)
+[2022.05.29-17.48.09:530][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ladder5)
+[2022.05.29-17.48.10:236][817]LogEditorViewport: Clicking on Actor (LMB): SM_Chandelier_2_Blueprint_C (SM_Chandelier_2_Blueprint2)
+[2022.05.29-17.48.16:648][376]Cmd: EDIT COPY
+[2022.05.29-17.48.48:129][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.05.29-17.48.48:156][875]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Main_menu.Main_menu
+[2022.05.29-17.48.48:157][875]Cmd: MAP LOAD FILE="../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Main_menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.29-17.48.48:157][875]LightingResults: New page: Lighting Build
+[2022.05.29-17.48.48:157][875]LoadErrors: New page: Loading map: Main_menu.umap
+[2022.05.29-17.48.48:160][875]LogWorld: UWorld::CleanupWorld for Map_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-17.48.48:160][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-17.48.48:160][875]MapCheck: New page: Map Check
+[2022.05.29-17.48.48:160][875]LightingResults: New page: Lighting Build
+[2022.05.29-17.48.48:186][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.29-17.48.48:191][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.05.29-17.48.48:191][875]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_menu'.
+[2022.05.29-17.48.48:211][875]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.29-17.48.48:211][875]LogAIModule: Creating AISystem for world Main_menu
+[2022.05.29-17.48.48:235][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.05.29-17.48.48:240][875]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-17.48.48:240][875]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,123ms to complete.
+[2022.05.29-17.48.48:240][875]LogFileHelpers: Loading map 'Main_menu' took 0.083
+[2022.05.29-17.48.52:105][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.29-17.48.52:153][301]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/LevelTutorial.LevelTutorial
+[2022.05.29-17.48.52:153][301]Cmd: MAP LOAD FILE="../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.29-17.48.52:153][301]LightingResults: New page: Lighting Build
+[2022.05.29-17.48.52:154][301]LoadErrors: New page: Loading map: LevelTutorial.umap
+[2022.05.29-17.48.52:196][301]LogWorld: UWorld::CleanupWorld for Main_menu, bSessionEnded=true, bCleanupResources=true
+[2022.05.29-17.48.52:196][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.29-17.48.52:196][301]MapCheck: New page: Map Check
+[2022.05.29-17.48.52:196][301]LightingResults: New page: Lighting Build
+[2022.05.29-17.48.52:219][301]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.29-17.48.52:222][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.05.29-17.48.52:223][301]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTutorial'.
+[2022.05.29-17.48.52:293][301]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.29-17.48.52:293][301]LogAIModule: Creating AISystem for world LevelTutorial
+[2022.05.29-17.48.52:318][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.05.29-17.48.52:322][301]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.29-17.48.52:323][301]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,137ms to complete.
+[2022.05.29-17.48.52:323][301]LogFileHelpers: Loading map 'LevelTutorial' took 0.170
+[2022.05.29-17.48.54:112][461]Cmd: EDIT PASTE
+[2022.05.29-17.49.01:846][214]Cmd: DUPLICATE
+[2022.05.29-17.49.01:846][214]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.49.08:586][868]LogEditorViewport: Clicking on Actor (LMB): FullTorch_C (FullTorch4)
+[2022.05.29-17.49.09:185][931]Cmd: DELETE
+[2022.05.29-17.49.09:185][931]Cmd: ACTOR DELETE
+[2022.05.29-17.49.09:187][931]LogEditorActor: Deleted Actor: FullTorch_C
+[2022.05.29-17.49.09:215][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.05.29-17.49.09:217][931]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.05.29-17.49.15:837][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B20)
+[2022.05.29-17.49.21:783][319]Cmd: DUPLICATE
+[2022.05.29-17.49.21:783][319]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.49.43:620][579]LogEditorViewport: Clicking Background
+[2022.05.29-17.49.44:506][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B21)
+[2022.05.29-17.49.45:713][805]Cmd: DUPLICATE
+[2022.05.29-17.49.45:713][805]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.49.59:165][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B22)
+[2022.05.29-17.50.02:043][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2022.05.29-17.50.04:936][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B22)
+[2022.05.29-17.50.05:763][906]Cmd: DUPLICATE
+[2022.05.29-17.50.05:763][906]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.50.13:785][762]Cmd: DUPLICATE
+[2022.05.29-17.50.13:785][762]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.50.22:850][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2022.05.29-17.50.23:587][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B23)
+[2022.05.29-17.50.25:280][959]Cmd: TRANSACTION UNDO
+[2022.05.29-17.50.25:280][959]LogEditorTransaction: Undo Move Actors
+[2022.05.29-17.50.25:971][982]LogEditorViewport: Clicking Background
+[2022.05.29-17.50.30:784][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A7)
+[2022.05.29-17.50.31:628][534]Cmd: DUPLICATE
+[2022.05.29-17.50.31:628][534]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.50.39:143][337]Cmd: DUPLICATE
+[2022.05.29-17.50.39:143][337]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.50.43:835][845]LogEditorViewport: Clicking Background
+[2022.05.29-17.50.45:844][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A11)
+[2022.05.29-17.50.58:269][388]Cmd: DUPLICATE
+[2022.05.29-17.50.58:269][388]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.51.02:721][850]LogEditorViewport: Clicking Background
+[2022.05.29-17.51.03:352][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A12)
+[2022.05.29-17.51.05:827][190]LogEditorViewport: Clicking Background
+[2022.05.29-17.51.06:285][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A12)
+[2022.05.29-17.51.08:416][468]LogEditorViewport: Clicking Background
+[2022.05.29-17.51.10:043][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A12)
+[2022.05.29-17.51.14:367][117]LogEditorViewport: Clicking Background
+[2022.05.29-17.51.17:487][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A12)
+[2022.05.29-17.51.20:075][714]LogEditorViewport: Clicking Background
+[2022.05.29-17.51.22:900][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A12)
+[2022.05.29-17.51.26:345][364]LogEditorViewport: Clicking Background
+[2022.05.29-17.51.31:194][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B4)
+[2022.05.29-17.51.32:188][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B4)
+[2022.05.29-17.51.32:809][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B4)
+[2022.05.29-17.51.33:513][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B4)
+[2022.05.29-17.51.34:142][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2022.05.29-17.51.34:808][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B4)
+[2022.05.29-17.51.35:465][317]LogEditorViewport: Clicking on Actor (LMB): SM_Chandelier_2_Blueprint_C (SM_Chandelier_2_Blueprint2)
+[2022.05.29-17.51.36:319][405]Cmd: DUPLICATE
+[2022.05.29-17.51.36:319][405]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.51.40:444][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A9)
+[2022.05.29-17.51.41:105][905]Cmd: DUPLICATE
+[2022.05.29-17.51.41:105][905]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.51.48:105][654]LogEditorViewport: Clicking Background
+[2022.05.29-17.51.48:346][680]LogEditorViewport: Clicking Background
+[2022.05.29-17.51.50:173][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B5)
+[2022.05.29-17.51.51:851][ 41]Cmd: DUPLICATE
+[2022.05.29-17.51.51:851][ 41]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.52.00:381][901]LogEditorViewport: Clicking Background
+[2022.05.29-17.52.00:700][935]LogEditorViewport: Clicking Background
+[2022.05.29-17.52.11:540][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor4)
+[2022.05.29-17.52.12:062][  9]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor6)
+[2022.05.29-17.52.12:728][ 31]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor5)
+[2022.05.29-17.52.13:518][ 59]Cmd: DUPLICATE
+[2022.05.29-17.52.13:518][ 59]Cmd: ACTOR DUPLICATE
+[2022.05.29-17.52.21:136][320]LogEditorViewport: Clicking Background
+[2022.05.29-17.52.30:559][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor13)
+[2022.05.29-17.52.33:120][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor15)
+[2022.05.29-17.52.35:717][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor14)
+[2022.05.29-17.52.38:936][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor15)
+[2022.05.29-17.53.18:819][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.05.29-17.53.18:901][115]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/LevelTutorial02DA98A347108A2EA5B7899550259B78.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial.umap'
+[2022.05.29-17.53.18:935][115]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/LevelTutorial_BuiltData0611D76F4E59CE89390F7E8A3F7D500E.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial_BuiltData.uasset'
+[2022.05.29-17.53.18:951][115]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.29-17.53.18:951][115]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/LevelTutorial.LevelTutorial
+[2022.05.29-17.53.18:951][115]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/LevelTutorial_BuiltData.LevelTutorial_BuiltData
+[2022.05.29-17.53.54:827][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_2)
+[2022.05.29-17.53.57:013][105]Cmd: TRANSACTION UNDO
+[2022.05.29-17.53.57:013][105]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.29-17.53.59:874][197]Cmd: TRANSACTION UNDO
+[2022.05.29-17.53.59:874][197]LogEditorTransaction: Undo Rotate Actors
+[2022.05.29-17.54.00:573][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor11)
+[2022.05.29-17.54.09:734][435]Cmd: TRANSACTION UNDO
+[2022.05.29-17.54.09:734][435]LogEditorTransaction: Undo Move Actors
+[2022.05.29-17.54.10:577][467]Cmd: TRANSACTION UNDO
+[2022.05.29-17.54.10:577][467]LogEditorTransaction: Undo Clicking on Actors
+[2022.05.29-17.54.13:692][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor11)
+[2022.05.29-17.54.18:997][681]LogEditorViewport: Clicking on Actor (LMB): Sword_C (Sword)
+[2022.05.29-17.54.27:548][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B5)
+[2022.05.29-17.54.36:341][130]LogEditorViewport: Clicking on Actor (LMB): Sword_C (Sword)
+[2022.05.29-17.54.56:940][653]Cmd: MODE SCALEGRID=0
+[2022.05.29-17.55.11:764][214]Cmd: MODE SCALEGRID=1
+[2022.05.29-17.55.25:141][557]Cmd: MODE SCALEGRID=0
+[2022.05.29-17.55.49:624][320]Cmd: MODE SCALEGRID=1
+[2022.05.29-17.56.20:339][144]LogEditorViewport: Clicking on Actor (LMB): SM_FirePlace_6m_Blueprint_C (SM_FirePlace_6m_Blueprint)
+[2022.05.29-17.56.53:847][988]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/BP_Character.BP_Character is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/BP_PlayerController.BP_PlayerController is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/BP_GameInstance.BP_GameInstance is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/BP_GameMode.BP_GameMode is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GE_DamageImmune.GE_DamageImmune is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GE_HealBase.GE_HealBase is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Potions/GE_PotionHealth.GE_PotionHealth is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GA_PotionBase.GA_PotionBase is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Potions/GA_PotionHealth.GA_PotionHealth is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Potions/GE_PotionMana.GE_PotionMana is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Potions/GA_PotionMana.GA_PotionMana is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Potions/GE_DeathsDoor.GE_DeathsDoor is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Potions/GA_DeathsDoor.GA_DeathsDoor is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GE_DamageBase.GE_DamageBase is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GE_RangedBase.GE_RangedBase is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Sword/GE_PlayerSwordChestKick.GE_PlayerSwordChestKick is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Sword/GE_PlayerSwordFrontalAttack.GE_PlayerSwordFrontalAttack is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Sword/GE_PlayerSwordJumpSlam.GE_PlayerSwordJumpSlam is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/TargetType_SphereTrace.TargetType_SphereTrace is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Sword/TargetType_ChestKick.TargetType_ChestKick is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Sword/TargetType_FrontalAttack.TargetType_FrontalAttack is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Sword/TargetType_JumpSlam.TargetType_JumpSlam is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GA_AbilityBase.GA_AbilityBase is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GE_MeleeBase.GE_MeleeBase is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GA_MeleeBase.GA_MeleeBase is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Items/Pickups/WeaponPickups/Assets/GE_WeaponPickUp.GE_WeaponPickUp is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Items/Pickups/WeaponPickups/Assets/GA_WeaponPickUp.GA_WeaponPickUp is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Skills/GE_PlayerSkillCooldown.GE_PlayerSkillCooldown is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Skills/GE_PlayerSkillManaCost.GE_PlayerSkillManaCost is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Skills/GE_PlayerSkillMeteor.GE_PlayerSkillMeteor is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Skills/TargetType_Meteor.TargetType_Meteor is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GA_SkillBase.GA_SkillBase is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Skills/GA_PlayerSkillMeteor.GA_PlayerSkillMeteor is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:852][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/BP_GameState.BP_GameState is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Spider/GE_SpiderCharge.GE_SpiderCharge is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Spider/GA_SpiderCharge.GA_SpiderCharge is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Spider/GE_FirewaveDamage.GE_FirewaveDamage is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Spider/TargetType_Firewall.TargetType_Firewall is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Spider/GA_SpiderFirewall.GA_SpiderFirewall is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Spider/GA_SpiderMelee.GA_SpiderMelee is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GE_StatsBase.GE_StatsBase is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Spider/GE_SpiderStats.GE_SpiderStats is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/Boss/NPC_SpiderBoss.NPC_SpiderBoss is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Goblin/GE_GoblinMelee.GE_GoblinMelee is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Goblin/GA_GoblinMelee.GA_GoblinMelee is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Goblin/GE_GoblinStats.GE_GoblinStats is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/NPC/NPC_GoblinBP.NPC_GoblinBP is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/NPC/NPC_Goblin_Level_01.NPC_Goblin_Level_01 is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Goblin/GE_GoblinRange.GE_GoblinRange is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/Skills/GE_PlayerSkillFireball.GE_PlayerSkillFireball is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GA_SpawnProjectileBase.GA_SpawnProjectileBase is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Enemies/Goblin/GA_GoblinRange01.GA_GoblinRange01 is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/NPC/NPC_Goblin_Level_02.NPC_Goblin_Level_02 is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Blueprints/NPC/NPC_Goblin_Level_03.NPC_Goblin_Level_03 is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Player/GE_PlayerStats.GE_PlayerStats is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:853][988]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/Abilities/Shared/GE_GodMode.GE_GodMode is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2022.05.29-17.56.53:873][988]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.29-17.57.19:319][700]LogEditorViewport: Clicking on Actor (LMB): Sword_C (Sword)
+[2022.05.29-17.57.28:561][928]LogEditorViewport: Clicking on Actor (LMB): Axe_C (Axe)
+[2022.05.29-17.58.09:295][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_2)
+[2022.05.29-17.58.10:046][232]LogEditorViewport: Clicking on Actor (LMB): Axe_C (Axe)
+[2022.05.29-17.58.14:305][336]LogEditorViewport: Clicking on Actor (LMB): Axe_C (Axe)
+[2022.05.29-17.58.16:579][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_2)
+[2022.05.29-17.58.17:511][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_2)
+[2022.05.29-17.58.18:153][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Table_2)
+[2022.05.29-17.58.18:757][441]LogEditorViewport: Clicking on Actor (LMB): Axe_C (Axe)
+[2022.05.29-17.58.20:839][491]LogEditorViewport: Clicking on Actor (LMB): Axe_C (Axe)
+[2022.05.29-17.58.27:125][650]LogEditorViewport: Clicking on Actor (LMB): Emitter (Dust_P)
+[2022.05.29-17.58.34:741][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lantern_2)
+[2022.05.29-17.58.38:062][916]Cmd: TRANSACTION UNDO
+[2022.05.29-17.58.38:062][916]LogEditorTransaction: Undo Move Actors
+[2022.05.29-17.59.01:146][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor2)
+[2022.05.29-17.59.02:213][527]LogEditorViewport: Clicking on Actor (LMB): Sword_C (Sword)
+[2022.05.29-17.59.03:811][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor3)
+[2022.05.29-17.59.04:759][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor12)
+[2022.05.29-18.02.44:565][ 55]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.29-18.02.44:565][ 55]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.29-18.02.49:116][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.05.29-18.02.49:204][114]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/LevelTutorial8CA73BE945F8B2717B21D2A09420E8C4.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial.umap'
+[2022.05.29-18.02.49:233][114]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/LevelTutorial_BuiltData33C68F4240459BD731288FB5AB27FBE8.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/LevelTutorial_BuiltData.uasset'
+[2022.05.29-18.02.49:250][114]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.29-18.02.49:250][114]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/LevelTutorial.LevelTutorial
+[2022.05.29-18.02.49:250][114]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/LevelTutorial_BuiltData.LevelTutorial_BuiltData
