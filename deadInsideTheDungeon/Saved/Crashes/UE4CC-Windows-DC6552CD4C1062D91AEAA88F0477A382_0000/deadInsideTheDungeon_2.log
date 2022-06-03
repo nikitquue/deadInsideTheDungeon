@@ -1,0 +1,895 @@
+﻿Log file open, 06/02/22 20:28:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: deadInsideTheDungeon
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.678739
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  /Game/ThirdPersonBP/Maps/LevelTutorial -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=339 -WinY=199 SAVEWINPOS=1 -ResX=1285 -ResY=737
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Engine.ini]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Engine.ini]
+[2022.06.02-17.28.43:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Engine.ini]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.02-17.28.43:444][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Engine.ini]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.02-17.28.43:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Engine.ini]
+[2022.06.02-17.28.43:445][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Engine.ini]
+[2022.06.02-17.28.43:463][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.02-17.28.43:463][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.02-17.28.43:464][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.02-17.28.43:465][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.02-17.28.43:465][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.02-17.28.43:465][  0]LogHAL: Display: Platform has ~ 16 GB [16934494208 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.02-17.28.43:465][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.02-17.28.43:465][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.02-17.28.43:465][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.02-17.28.43:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Scalability.ini]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.02-17.28.43:467][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Engine.ini]
+[2022.06.02-17.28.43:467][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Config/Windows/Editor.ini]
+[2022.06.02-17.28.43:467][  0]LogInit: Computer: RZUIETIRBOOK
+[2022.06.02-17.28.43:467][  0]LogInit: User: rzuietir
+[2022.06.02-17.28.43:467][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.02-17.28.43:467][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.02-17.28.43:468][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.06.02-17.28.43:468][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.02-17.28.43:468][  0]LogMemory: Process Physical Memory: 142.08 MB used, 142.09 MB peak
+[2022.06.02-17.28.43:468][  0]LogMemory: Process Virtual Memory: 126.61 MB used, 126.61 MB peak
+[2022.06.02-17.28.43:468][  0]LogMemory: Physical Memory: 9318.62 MB used,  6831.38 MB free, 16149.99 MB total
+[2022.06.02-17.28.43:468][  0]LogMemory: Virtual Memory: 134195720.00 MB used,  22008.27 MB free, 134217728.00 MB total
+[2022.06.02-17.28.43:478][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.02-17.28.43:573][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.02-17.28.43:573][  0]LogInit: Using OS detected language (ru-RU).
+[2022.06.02-17.28.43:573][  0]LogInit: Using OS detected locale (ru-UA).
+[2022.06.02-17.28.43:583][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.06.02-17.28.43:587][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.06.02-17.28.43:587][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.06.02-17.28.43:587][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.06.02-17.28.43:587][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.06.02-17.28.43:587][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.06.02-17.28.43:588][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.06.02-17.28.43:588][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.06.02-17.28.43:615][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.02-17.28.43:658][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.02-17.28.43:658][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.02-17.28.43:684][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.06.02-17.28.43:793][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.02-17.28.43:793][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.02-17.28.43:793][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.02-17.28.43:793][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.02-17.28.43:917][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650 Ti with Max-Q Design' (Feature Level 11_0)
+[2022.06.02-17.28.43:917][  0]LogD3D11RHI:       3964/0/8074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.02-17.28.43:963][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2022.06.02-17.28.43:963][  0]LogD3D11RHI:       128/0/8074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:       0/0/8074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650 Ti with Max-Q Design
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:     DeviceId    : 1f95
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:     SubSysId    : 8815103c
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:     DedicatedVideoMemory : 4156555264 bytes
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:     SharedSystemMemory : 8467247104 bytes
+[2022.06.02-17.28.43:967][  0]LogD3D11RHI:     AdapterLuid : 0 75699
+[2022.06.02-17.28.43:976][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.02-17.28.43:976][  0]LogD3D11RHI:     GPU DeviceId: 0x1f95 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.02-17.28.43:976][  0]LogWindows: EnumDisplayDevices:
+[2022.06.02-17.28.43:976][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2022.06.02-17.28.43:978][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.06.02-17.28.43:978][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.06.02-17.28.43:978][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2022.06.02-17.28.43:979][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650 Ti with Max-Q Design
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.06.02-17.28.43:979][  0]LogRHI: Texture pool is 2774 MB (70% of 3964 MB)
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650 Ti with Max-Q Design
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:     DeviceId    : 1f95
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:     SubSysId    : 8815103c
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:     DedicatedVideoMemory : 4156555264 bytes
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:     SharedSystemMemory : 8467247104 bytes
+[2022.06.02-17.28.43:979][  0]LogD3D11RHI:     AdapterLuid : 0 75699
+[2022.06.02-17.28.44:064][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.02-17.28.44:064][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.02-17.28.44:064][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.02-17.28.44:084][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.06.02-17.28.44:128][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.02-17.28.44:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.02-17.28.44:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.02-17.28.44:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.02-17.28.44:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.02-17.28.44:637][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.02-17.28.44:647][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.02-17.28.44:688][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.06.02-17.28.44:728][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.02-17.28.44:728][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Intermediate/Shaders/WorkingDirectory/12876/).
+[2022.06.02-17.28.44:728][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/r.zuietir/AppData/Local/Temp/UnrealShaderWorkingDir/9CCF303640F4496841BDACAF1BD9818F/'.
+[2022.06.02-17.28.44:729][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.02-17.28.44:729][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.02-17.28.44:729][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.02-17.28.45:518][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.02-17.28.45:574][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/r.zuietir/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.02-17.28.45:574][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/r.zuietir/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.06.02-17.28.45:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.02-17.28.45:574][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.02-17.28.45:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.02-17.28.45:574][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.02-17.28.45:595][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.02-17.28.45:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.02-17.28.45:595][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.02-17.28.45:602][  0]LogDerivedDataCache: Speed tests for C:/Users/r.zuietir/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.02-17.28.45:602][  0]LogDerivedDataCache: Display: Performance to C:/Users/r.zuietir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1205.20MBs, RandomWriteSpeed=143.80MBs. Assigned SpeedClass 'Local'
+[2022.06.02-17.28.45:603][  0]LogDerivedDataCache: Using Local data cache path C:/Users/r.zuietir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.02-17.28.45:603][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.02-17.28.45:603][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.02-17.28.45:639][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.02-17.28.45:640][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.02-17.28.45:777][  0]LogInit: Using OS detected language (ru-RU).
+[2022.06.02-17.28.45:777][  0]LogInit: Using OS detected locale (ru-UA).
+[2022.06.02-17.28.45:777][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2022.06.02-17.28.45:777][  0]LogTextLocalizationManager: No localization for 'ru-UA' exists, so 'en' will be used for the locale.
+[2022.06.02-17.28.45:777][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.06.02-17.28.45:777][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.06.02-17.28.45:782][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2022.06.02-17.28.45:995][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2022.06.02-17.28.45:995][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.001099 seconds
+[2022.06.02-17.28.46:081][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.02-17.28.46:081][  0]LogInit: Active device profile: [0000012A44556C00][0000012A43FFEC00 49] Windows
+[2022.06.02-17.28.46:081][  0]LogInit: Profiles: [0000012A44556C00][0000012A43FFEC00 49] Windows, [0000012A44541600][0000012A44006EC0 49] WindowsNoEditor, [0000012A44555600][0000012A4400B180 49] WindowsServer, [0000012A44542500][0000012A4400F440 49] WindowsClient, [0000012A44556400][0000012A44013700 49] IOS, [0000012A44541500][0000012A440179C0 49] iPadAir, [0000012A44555D00][0000012A440020C0 49] iPadAir2, [0000012A454E7500][0000012A3422C5C0 49] IPadPro, [0000012A454E7600][0000012A4401A600 49] iPadAir3, [0000012A44554900][0000012A342248C0 49] iPadAir4, [0000012A454E5B00][0000012A34220B80 49] iPadMini2, [0000012A44555300][0000012A34228E40 49] iPadMini3, [0000012A454E4900][0000012A34231100 49] iPadMini4, [0000012A44556F00][0000012A342353C0 49] iPadMini5, [0000012A4452AE00][0000012A34249900 49] iPhone6, [0000012A4452AF00][0000012A34239940 49] iPodTouch6, [0000012A454E4B00][0000012A3424C2C0 49] iPhone7, [0000012A454E4A00][0000012A34240300 49] iPodTouch7, [0000012A44529A00][0000012A4401E580 49] iPhone5S, [0000012A454E6900][0000012A3423C840 49] iPhone6Plus, [0000012A4452B200][0000012A34250B00 49] iPhone6S, [0000012A454E7C00][0000012A34254DC0 49] iPhone6SPlus, [0000012A44529400][0000012A344F3080 49] iPhone7Plus, [0000012A454E4400][0000012A344F7340 49] iPhoneSE, [0000012A44529D00][0000012A344FB600 49] iPhone8, [0000012A454E7300][0000012A344FF8C0 49] iPhone8Plus, [0000012A44528900][0000012A34503B80 49] iPhoneX, [0000012A454E5E00][0000012A345062C0 49] iPhoneXS, [0000012A44529800][0000012A34244540 49] iPhoneXSMax, [0000012A454E4800][0000012A3450A7C0 49] iPhoneXR, [0000012A4452A200][0000012A34512A80 49] iPhone11, [0000012A454E4700][0000012A34516D40 49] iPhone11Pro, [0000012A4452B300][0000012A3451B000 49] iPhone11ProMax, [0000012A454E6C00][0000012A3451F2C0 49] iPhoneSE2, [0000012A4452AA00][0000012A34523580 49] iPhone12Mini, [0000012A454E5000][0000012A34527840 49] iPhone12, [0000012A44528700][0000012A3452BB00 49] iPhone12Pro, [0000012A454E7B00][0000012A3452E240 49] iPhone12ProMax, [0000012A4452BC00][0000012A34532500 49] iPadPro105, [0000012A454E5A00][0000012A3450E780 49] iPadPro129, [0000012A44528A00][0000012A3453AA40 49] iPadPro97, [0000012A454E6000][0000012A44022D00 49] iPadPro2_129, [0000012A4452A500][0000012A44026FC0 49] iPad5, [0000012A454E6500][0000012A4402B280 49] iPad6, [0000012A44528D00][0000012A4402F540 49] iPad7, [0000012A454E7D00][0000012A44033800 49] iPad8, [0000012A4452B500][0000012A44037AC0 49] iPadPro11, [0000012A454E6700][0000012A4403A200 49] iPadPro2_11, [0000012A44528B00][0000012A4403E4C0 49] iPadPro3_129, [0000012A445BC600][0000012A34536740 49] iPadPro4_129, [0000012A44543800][0000012A440429C0 49] AppleTV, [0000012A445BCD00][0000012A4404AC80 49] AppleTV4K, [0000012A44541900][0000012A4404EF40 49] TVOS, [0000012A445BCF00][0000012A44053200 49] Mac, [0000012A44542F00][0000012A440574C0 49] MacClient, [0000012A445BCB00][0000012A4405B780 49] MacNoEditor, [0000012A44541700][0000012A4405FA40 49] MacServer, [0000012A445BC900][0000012A44062180 49] Linux, [0000012A44541200][0000012A44066440 49] LinuxAArch64, [0000012A445BD400][0000012A4406A700 49] LinuxNoEditor, [0000012A44542C00][0000012A44046980 49] LinuxAArch64NoEditor, [0000012A445BD800][0000012A4406EC00 49] LinuxClient, [0000012A44540C00][0000012A44076EC0 49] LinuxAArch64Client, [0000012A445BDB00][0000012A4407B180 49] LinuxServer, [0000012A44543C00][0000012A4407F440 49] LinuxAArch64Server, [0000012A445BC700][0000012A44083700 49] Android, [0000012A44542400][0000012A440879C0 49] Android_Low, [0000012A4452A600][0000012A4408A100 49] Android_Mid, [0000012A454E5400][0000012A4408E3C0 49] Android_High, [0000012A44528200][0000012A44092680 49] Android_Default, [0000012A454E4600][0000012A44096940 49] Android_Adreno4xx, [0000012A44529600][0000012A44072BC0 49] Android_Adreno5xx_Low, [0000012A454E7000][0000012A4409AE40 49] Android_Adreno5xx, [0000012A44529E00][0000012A440A3100 49] Android_Adreno6xx, [0000012A454E5200][0000012A440A73C0 49] Android_Adreno6xx_Vulkan, [0000012A44529000][0000012A440AB680 49] Android_Mali_T6xx, [0000012A454E7200][0000012A440AF940 49] Android_Mali_T7xx, [0000012A44529200][0000012A440B3C00 49] Android_Mali_T8xx, [0000012A454E5C00][0000012A440B6340 49] Android_Mali_G71, [0000012A4452B400][0000012A440BA600 49] Android_Mali_G72, [0000012A454E7A00][0000012A440BE8C0 49] Android_Mali_G72_Vulkan, [0000012A4452AC00][0000012A440C2B80 49] Android_Mali_G76, [0000012A454E6F00][0000012A4409EE00 49] Android_Mali_G76_Vulkan, [0000012A4452A400][0000012A440C7080 49] Android_Mali_G77, [0000012A454E5800][0000012A440CF340 49] Android_Mali_G77_Vulkan, [0000012A44529100][0000012A440D3600 49] Android_Mali_G78, [0000012A454E6400][0000012A440D78C0 49] Android_Mali_G78_Vulkan, [0000012A4452B000][0000012A440DBB80 49] Android_Mali_G710, [0000012A454E7E00][0000012A440DE2C0 49] Android_Mali_G710_Vulkan, [0000012A44529700][0000012A440E2580 49] Android_Vulkan_SM5, [0000012A454E4E00][0000012A440E6840 49] Android_PowerVR_G6xxx, [0000012A445BCC00][0000012A440EAB00 49] Android_PowerVR_GT7xxx, [0000012A454E4500][0000012A440EEDC0 49] Android_PowerVR_GE8xxx, [0000012A445BC200][0000012A440CB040 49] Android_PowerVR_GM9xxx, [0000012A454E6600][0000012A440F32C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000012A445BCA00][0000012A440FB580 49] Android_TegraK1, [0000012A454E5600][0000012A33A53840 49] Android_Unknown_Vulkan, [0000012A44556B00][0000012A33A57B00 49] Lumin, [0000012A44541F00][0000012A33A5A240 49] Lumin_Desktop, [0000012A44556800][0000012A33A5E500 49] HoloLens, 
+[2022.06.02-17.28.46:225][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.02-17.28.46:225][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.02-17.28.46:225][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.02-17.28.46:225][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.02-17.28.46:225][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.02-17.28.46:263][  0]LogNetVersion: deadInsideTheDungeon 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3162280402)
+[2022.06.02-17.28.46:536][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.02-17.28.46:598][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.02-17.28.46:732][  0]LogMoviePlayer: Initializing movie player
+[2022.06.02-17.28.46:862][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3ABEB20C4998A3B6A6D5E0AA8B33C6F3 | Instance: 7F3E779F42B6AE6035DFD788B946952E (RZUIETIRBOOK-12876).
+[2022.06.02-17.28.46:882][  0]LogCollectionManager: Loaded 0 collections in 0.001486 seconds
+[2022.06.02-17.28.46:886][  0]LogFileCache: Scanning file cache for directory 'C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Collections/' took 0.00s
+[2022.06.02-17.28.46:886][  0]LogFileCache: Scanning file cache for directory 'C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/Developers/rzuietir/Collections/' took 0.00s
+[2022.06.02-17.28.46:886][  0]LogFileCache: Scanning file cache for directory 'C:/Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/Collections/' took 0.00s
+[2022.06.02-17.28.46:886][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.06.02-17.28.46:906][  0]LogPython: Using Python 3.7.7
+[2022.06.02-17.28.47:484][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.02-17.28.47:491][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.02-17.28.47:551][  0]SourceControl: Source control is disabled
+[2022.06.02-17.28.47:551][  0]SourceControl: Source control is disabled
+[2022.06.02-17.28.47:555][  0]SourceControl: Source control is disabled
+[2022.06.02-17.28.47:561][  0]LogUProjectInfo: Found projects:
+[2022.06.02-17.28.47:571][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.02-17.28.47:571][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.02-17.28.47:573][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.06.02-17.28.47:717][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.02-17.28.47:766][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.02-17.28.47:793][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.02-17.28.47:793][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.02-17.28.47:867][  0]LogOcInput: OculusInput pre-init called
+[2022.06.02-17.28.47:875][  0]LogUObjectArray: 22121 objects as part of root set at end of initial load.
+[2022.06.02-17.28.47:875][  0]LogUObjectAllocator: 5975632 out of 0 bytes used by permanent object pool.
+[2022.06.02-17.28.47:875][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.02-17.28.47:924][  0]LogEngine: Initializing Engine...
+[2022.06.02-17.28.47:927][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.06.02-17.28.47:927][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.02-17.28.47:928][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.02-17.28.47:929][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.02-17.28.48:036][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.02-17.28.48:036][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.02-17.28.48:041][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.02-17.28.48:042][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.02-17.28.48:042][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.02-17.28.48:042][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.02-17.28.48:042][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.02-17.28.48:042][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.02-17.28.48:042][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.02-17.28.48:042][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.02-17.28.48:042][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.02-17.28.48:042][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.02-17.28.48:042][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.02-17.28.48:042][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.02-17.28.48:043][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.02-17.28.48:043][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.02-17.28.48:043][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.02-17.28.48:043][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.02-17.28.48:056][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.02-17.28.48:056][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.02-17.28.48:096][  0]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2022.06.02-17.28.48:102][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.02-17.28.48:104][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.02-17.28.48:104][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.02-17.28.48:105][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.02-17.28.48:105][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.02-17.28.48:105][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.02-17.28.48:106][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.02-17.28.48:106][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.02-17.28.48:106][  0]LogInit: FAudioDevice initialized.
+[2022.06.02-17.28.48:109][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.02-17.28.48:110][  0]LogInit: Texture streaming: Enabled
+[2022.06.02-17.28.48:187][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.02-17.28.48:188][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.02-17.28.48:189][  0]LogInit: Display: Game Engine Initialized.
+[2022.06.02-17.28.48:189][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.06.02-17.28.48:325][  0]LogInit: Display: Starting Game.
+[2022.06.02-17.28.48:325][  0]LogNet: Browse: /Game/ThirdPersonBP/Maps/LevelTutorial?Name=Player
+[2022.06.02-17.28.48:325][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/LevelTutorial?Name=Player
+[2022.06.02-17.28.48:325][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.06.02-17.28.48:327][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.02-17.28.48:327][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-17.28.48:332][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.02-17.28.48:335][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.02-17.28.48:821][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTutorial'.
+[2022.06.02-17.28.48:829][  0]LogAIModule: Creating AISystem for world LevelTutorial
+[2022.06.02-17.28.48:829][  0]LogLoad: Game class is 'BP_GMB_C'
+[2022.06.02-17.28.48:840][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/LevelTutorial.LevelTutorial up for play (max tick rate 0) at 2022.06.02-20.28.48
+[2022.06.02-17.28.48:841][  0]LogWorld: Bringing up level for play took: 0.011015
+[2022.06.02-17.28.48:845][  0]LogLoad: Took 0.520420 seconds to LoadMap(/Game/ThirdPersonBP/Maps/LevelTutorial)
+[2022.06.02-17.28.48:918][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.02-17.28.48:967][  0]LogRenderer: Reallocating scene render targets to support 1068x668 Format 10 NumSamples 1 (Frame:1).
+[2022.06.02-17.28.48:967][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.02-17.28.48:967][  0]LogLoad: (Engine Initialization) Total time: 7.91 seconds
+[2022.06.02-17.28.48:967][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.02-17.28.48:998][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.02-17.28.49:000][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.02-17.28.49:177][  1]LogSlate: Took 0.001026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.02-17.28.53:918][717]LogRHI: Error: Present Fail Count 1
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.53:918][717]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.53:919][717]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.53:919][717]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.53:919][717]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.53:919][717]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.54:985][818]LogRHI: Error: Present Fail Count 1
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.54:985][818]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:122][821]LogRHI: Error: Present Fail Count 2
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.55:122][821]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:142][825]LogRHI: Error: Present Fail Count 3
+[2022.06.02-17.28.55:142][825]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.55:142][825]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.55:142][825]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.55:142][825]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.55:142][825]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.55:142][825]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.55:142][825]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.55:142][825]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.55:143][825]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.55:143][825]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.55:143][825]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.55:143][825]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.55:143][825]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.55:143][825]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.55:143][825]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.55:143][825]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:165][829]LogRHI: Error: Present Fail Count 4
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.55:165][829]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:185][832]LogRHI: Error: Present Fail Count 5
+[2022.06.02-17.28.55:185][832]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.55:185][832]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.55:185][832]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.55:185][832]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.55:185][832]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.55:185][832]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.55:185][832]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.55:185][832]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.55:185][832]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.55:185][832]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.55:186][832]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.55:186][832]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.55:186][832]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.55:186][832]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.55:186][832]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.55:186][832]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:201][836]LogRHI: Error: Present Fail Count 6
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.55:201][836]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:222][839]LogRHI: Error: Present Fail Count 7
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.55:222][839]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:238][843]LogRHI: Error: Present Fail Count 8
+[2022.06.02-17.28.55:238][843]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.55:238][843]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.55:238][843]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.55:238][843]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.55:238][843]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.55:238][843]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.55:238][843]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.55:239][843]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.55:239][843]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.55:239][843]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.55:239][843]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.55:239][843]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.55:239][843]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.55:239][843]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.55:239][843]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.55:239][843]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:262][847]LogRHI: Error: Present Fail Count 9
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.55:262][847]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:282][851]LogRHI: Error: Present Fail Count 10
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.55:282][851]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.55:283][851]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:304][855]LogRHI: Error: Present Fail Count 11
+[2022.06.02-17.28.55:304][855]LogRHI: Error: SyncInterval 0
+[2022.06.02-17.28.55:304][855]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1066
+[2022.06.02-17.28.55:304][855]LogRHI: Error: SwapChainDesc.BufferDesc.Height 666
+[2022.06.02-17.28.55:304][855]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2022.06.02-17.28.55:304][855]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2022.06.02-17.28.55:304][855]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2022.06.02-17.28.55:305][855]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2022.06.02-17.28.55:305][855]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2022.06.02-17.28.55:305][855]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2022.06.02-17.28.55:305][855]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2022.06.02-17.28.55:305][855]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2022.06.02-17.28.55:305][855]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2022.06.02-17.28.55:305][855]LogRHI: Error: SwapChainDesc.OutputWindow 000000000007087A
+[2022.06.02-17.28.55:305][855]LogRHI: Error: SwapChainDesc.Windowed true
+[2022.06.02-17.28.55:305][855]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2022.06.02-17.28.55:305][855]LogRHI: Error: SwapChainDesc.Flags 2050
+[2022.06.02-17.28.55:305][855]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:443 
+ with error DXGI_ERROR_DEVICE_REMOVED 00000000
+[2022.06.02-17.28.55:305][855]LogD3D11RHI: [Aftermath] GDynamicRHI=0000012A223EDD40, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2022.06.02-17.28.55:305][855]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
