@@ -10962,3 +10962,932 @@ Script Stack (0 frames):
 [2022.06.09-13.57.22:418][453]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.09-13.57.22:418][453]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_2.Level_2
 [2022.06.09-13.57.22:418][453]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2022.06.09-15.09.13:103][689]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.09-15.09.13:103][689]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.09-15.09.17:380][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A24)
+[2022.06.09-15.09.20:179][433]LogEditorViewport: Clicking Background
+[2022.06.09-15.09.29:935][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A19)
+[2022.06.09-15.09.43:817][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A18)
+[2022.06.09-15.09.45:623][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A24)
+[2022.06.09-15.10.34:030][386]LogEditorViewport: Clicking Background
+[2022.06.09-15.10.34:397][408]LogEditorViewport: Clicking Background
+[2022.06.09-15.10.36:630][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A24)
+[2022.06.09-15.10.38:959][680]LogEditorViewport: Clicking Background
+[2022.06.09-15.10.43:610][959]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_2A24)
+[2022.06.09-15.10.50:245][347]LogEditorViewport: Clicking Background
+[2022.06.09-15.10.57:615][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A_Door_TwoSided)
+[2022.06.09-15.10.58:372][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A24)
+[2022.06.09-15.10.59:994][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A9)
+[2022.06.09-15.11.02:882][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A_Door_TwoSided)
+[2022.06.09-15.11.06:139][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A8)
+[2022.06.09-15.11.08:722][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A10)
+[2022.06.09-15.11.10:431][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A12)
+[2022.06.09-15.11.12:625][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A11)
+[2022.06.09-15.11.14:641][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A9)
+[2022.06.09-15.11.32:847][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor42)
+[2022.06.09-15.11.47:623][580]Cmd: DUPLICATE
+[2022.06.09-15.11.47:623][580]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.11.59:169][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor42)
+[2022.06.09-15.12.00:526][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor44)
+[2022.06.09-15.12.11:574][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A10)
+[2022.06.09-15.12.12:873][ 57]Cmd: DUPLICATE
+[2022.06.09-15.12.12:873][ 57]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.12.28:293][974]LogEditorViewport: Clicking Background
+[2022.06.09-15.12.38:608][590]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.09-15.12.58:860][717]LogEditorViewport: Clicking Background
+[2022.06.09-15.12.58:862][717]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.09-15.13.26:871][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor44)
+[2022.06.09-15.13.30:341][602]Cmd: DUPLICATE
+[2022.06.09-15.13.30:341][602]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.13.43:395][305]LogEditorViewport: Clicking Background
+[2022.06.09-15.13.46:344][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor44)
+[2022.06.09-15.13.47:048][523]Cmd: DUPLICATE
+[2022.06.09-15.13.47:048][523]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.13.58:117][185]LogEditorViewport: Clicking Background
+[2022.06.09-15.14.06:975][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor46)
+[2022.06.09-15.14.07:729][759]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor44)
+[2022.06.09-15.14.08:404][798]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor45)
+[2022.06.09-15.14.09:077][837]Cmd: DUPLICATE
+[2022.06.09-15.14.09:077][837]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.14.14:978][189]LogEditorViewport: Clicking Background
+[2022.06.09-15.14.32:101][214]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor44)
+[2022.06.09-15.14.32:305][225]Cmd: DUPLICATE
+[2022.06.09-15.14.32:305][225]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.14.35:145][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor49)
+[2022.06.09-15.14.35:884][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor44)
+[2022.06.09-15.14.39:079][627]Cmd: DELETE
+[2022.06.09-15.14.39:079][627]Cmd: ACTOR DELETE
+[2022.06.09-15.14.39:106][627]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.14.39:183][627]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.06.09-15.14.39:189][627]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2022.06.09-15.14.40:464][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor47)
+[2022.06.09-15.14.43:343][874]Cmd: TRANSACTION UNDO
+[2022.06.09-15.14.43:343][874]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.14.44:080][899]LogEditorViewport: Clicking Background
+[2022.06.09-15.14.44:609][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.06.09-15.14.44:906][927]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2E1583E40483B6F9AA5A20C91D2009915.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap'
+[2022.06.09-15.14.45:206][927]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2_BuiltData27AF6DFA4685343399C9FE825BB235F7.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset'
+[2022.06.09-15.14.45:223][927]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.09-15.14.45:223][927]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.14.45:223][927]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2022.06.09-15.15.16:796][736]LogActorFactory: Actor Factory created SM_Wall_3A_TwoSided
+[2022.06.09-15.15.18:236][818]LogActorFactory: Actor Factory created SM_Wall_3A_TwoSided
+[2022.06.09-15.15.50:682][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided)
+[2022.06.09-15.15.51:353][800]Cmd: DUPLICATE
+[2022.06.09-15.15.51:353][800]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.16.14:963][177]LogActorFactory: Actor Factory created SM_Wall_3C_Door
+[2022.06.09-15.16.19:751][418]LogActorFactory: Actor Factory created SM_Wall_3C_Door_TwoSided
+[2022.06.09-15.16.22:450][579]LogActorFactory: Actor Factory created SM_Wall_3C_Door_TwoSided
+[2022.06.09-15.16.36:468][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor49)
+[2022.06.09-15.16.48:880][149]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP2)
+[2022.06.09-15.16.50:013][216]Cmd: DUPLICATE
+[2022.06.09-15.16.50:013][216]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.16.59:715][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor47)
+[2022.06.09-15.17.04:537][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.06.09-15.17.04:859][ 80]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2FC577DAD4D0A7A2160D82AAB3BEE8387.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap'
+[2022.06.09-15.17.05:191][ 80]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2_BuiltDataA4B503284A2B83E7D033FA9FF3FC2B3C.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset'
+[2022.06.09-15.17.05:207][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.09-15.17.05:207][ 80]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.17.05:207][ 80]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2022.06.09-15.17.15:804][687]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Creative_part/ActiveDoor/Doors_BP.Doors_BP
+[2022.06.09-15.17.47:365][421]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.17.47:370][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.17.55:698][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided)
+[2022.06.09-15.17.57:223][  3]Cmd: DUPLICATE
+[2022.06.09-15.17.57:223][  3]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.18.39:203][518]Cmd: DUPLICATE
+[2022.06.09-15.18.39:203][518]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.18.56:165][527]LogEditorViewport: Clicking Background
+[2022.06.09-15.19.06:585][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3C_Door_TwoSided)
+[2022.06.09-15.19.07:275][191]Cmd: DUPLICATE
+[2022.06.09-15.19.07:275][191]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.19.20:470][980]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.19.24:190][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided)
+[2022.06.09-15.19.25:154][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3C_Door_TwoSided2)
+[2022.06.09-15.19.25:957][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor45)
+[2022.06.09-15.19.30:097][553]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP3)
+[2022.06.09-15.19.30:728][590]Cmd: DUPLICATE
+[2022.06.09-15.19.30:729][590]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.19.39:301][103]Cmd: TRANSACTION UNDO
+[2022.06.09-15.19.39:301][103]LogEditorTransaction: Undo Rotate Actors
+[2022.06.09-15.19.39:822][116]Cmd: TRANSACTION UNDO
+[2022.06.09-15.19.39:822][116]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.20.05:562][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor48)
+[2022.06.09-15.20.08:105][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor45)
+[2022.06.09-15.20.16:032][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided3)
+[2022.06.09-15.20.18:678][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided4)
+[2022.06.09-15.20.19:288][471]Cmd: DUPLICATE
+[2022.06.09-15.20.19:288][471]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.20.29:746][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor50)
+[2022.06.09-15.20.29:977][105]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.06.09-15.20.31:060][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor45)
+[2022.06.09-15.20.36:632][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided3)
+[2022.06.09-15.20.37:228][530]Cmd: DUPLICATE
+[2022.06.09-15.20.37:228][530]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.20.46:595][ 86]LogEditorViewport: Clicking Background
+[2022.06.09-15.20.48:015][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided6)
+[2022.06.09-15.20.55:665][628]LogEditorViewport: Clicking Background
+[2022.06.09-15.20.58:484][797]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_3A_TwoSided6)
+[2022.06.09-15.21.00:138][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor46)
+[2022.06.09-15.21.01:519][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided6)
+[2022.06.09-15.21.06:479][266]LogEditorViewport: Clicking Background
+[2022.06.09-15.21.14:218][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided6)
+[2022.06.09-15.21.16:712][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor46)
+[2022.06.09-15.21.42:860][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3C_Door_TwoSided2)
+[2022.06.09-15.21.43:653][471]Cmd: DUPLICATE
+[2022.06.09-15.21.43:653][471]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.21.47:657][709]Cmd: TRANSACTION UNDO
+[2022.06.09-15.21.47:657][709]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.21.48:165][724]Cmd: TRANSACTION UNDO
+[2022.06.09-15.21.48:165][724]LogEditorTransaction: Undo Duplicate Actors
+[2022.06.09-15.21.49:477][791]LogEditorViewport: Clicking on Actor (CTRL LMB): Doors_BP_C (Doors_BP4)
+[2022.06.09-15.22.04:135][669]Cmd: TRANSACTION UNDO
+[2022.06.09-15.22.04:135][669]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.22.07:170][830]Cmd: TRANSACTION UNDO
+[2022.06.09-15.22.07:170][830]LogEditorTransaction: Undo Rotate Actors
+[2022.06.09-15.22.08:486][885]Cmd: DUPLICATE
+[2022.06.09-15.22.08:486][885]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.22.23:034][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor49)
+[2022.06.09-15.22.35:830][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided6)
+[2022.06.09-15.22.39:161][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor46)
+[2022.06.09-15.22.55:640][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A15)
+[2022.06.09-15.22.56:829][772]LogEditorViewport: Clicking on Actor (LMB): SM_Torch_Blueprint_C (SM_Torch_Blueprint3)
+[2022.06.09-15.22.59:163][910]Cmd: DUPLICATE
+[2022.06.09-15.22.59:163][910]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.23.21:171][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided5)
+[2022.06.09-15.23.27:153][574]LogEditorViewport: Clicking on Actor (LMB): SM_Torch_Blueprint_C (SM_Torch_Blueprint2)
+[2022.06.09-15.23.27:941][620]Cmd: DUPLICATE
+[2022.06.09-15.23.27:941][620]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.23.58:124][418]LogEditorViewport: Clicking on Actor (LMB): SM_Torch_Blueprint_C (SM_Torch_Blueprint5)
+[2022.06.09-15.24.07:013][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor49)
+[2022.06.09-15.24.07:207][943]Cmd: TRANSACTION UNDO
+[2022.06.09-15.24.07:207][943]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.09-15.24.12:667][249]Cmd: TRANSACTION UNDO
+[2022.06.09-15.24.12:667][249]LogEditorTransaction: Undo Set Location
+[2022.06.09-15.24.23:488][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor49)
+[2022.06.09-15.24.24:729][945]Cmd: TRANSACTION UNDO
+[2022.06.09-15.24.24:729][945]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.09-15.24.25:198][958]Cmd: TRANSACTION UNDO
+[2022.06.09-15.24.25:198][958]LogEditorTransaction: Undo Set Location
+[2022.06.09-15.24.38:580][730]LogEditorViewport: Clicking on Actor (LMB): SM_Torch_Blueprint_C (SM_Torch_Blueprint6)
+[2022.06.09-15.24.48:024][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided)
+[2022.06.09-15.24.54:862][693]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.09-15.24.55:264][716]Cmd: DELETE
+[2022.06.09-15.24.55:264][716]Cmd: ACTOR DELETE
+[2022.06.09-15.24.55:269][716]LogEditorActor: Deleted Actor: PointLight
+[2022.06.09-15.24.55:322][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.06.09-15.24.55:328][716]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2022.06.09-15.24.58:759][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A15)
+[2022.06.09-15.24.59:695][976]LogEditorViewport: Clicking on Actor (LMB): SM_Torch_Blueprint_C (SM_Torch_Blueprint3)
+[2022.06.09-15.25.00:566][ 27]Cmd: DUPLICATE
+[2022.06.09-15.25.00:566][ 27]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.25.06:833][401]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP5)
+[2022.06.09-15.25.07:680][451]LogEditorViewport: Clicking on Actor (LMB): SM_Torch_Blueprint_C (SM_Torch_Blueprint7)
+[2022.06.09-15.25.17:662][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor49)
+[2022.06.09-15.25.27:540][635]Cmd: TRANSACTION UNDO
+[2022.06.09-15.25.27:540][635]LogEditorTransaction: Undo Set Location
+[2022.06.09-15.25.29:249][715]LogEditorViewport: Clicking on Actor (LMB): SM_Torch_Blueprint_C (SM_Torch_Blueprint7)
+[2022.06.09-15.25.34:982][ 53]LogEditorViewport: Clicking on Actor (LMB): SM_Torch_Blueprint_C (SM_Torch_Blueprint7)
+[2022.06.09-15.25.36:938][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor49)
+[2022.06.09-15.25.41:166][422]LogEditorViewport: Clicking on Actor (LMB): SM_Torch_Blueprint_C (SM_Torch_Blueprint7)
+[2022.06.09-15.25.45:308][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor49)
+[2022.06.09-15.26.21:194][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_2A_Door_TwoSided)
+[2022.06.09-15.26.24:153][979]Cmd: TRANSACTION UNDO
+[2022.06.09-15.26.24:153][979]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.26.24:933][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor50)
+[2022.06.09-15.26.34:376][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.06.09-15.26.34:708][355]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2E749ABE14C8CBCD072123DB401917A85.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap'
+[2022.06.09-15.26.34:999][355]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2_BuiltData0305025C44220B98780EA489C7A2D668.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset'
+[2022.06.09-15.26.35:020][355]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.09-15.26.35:020][355]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.26.35:020][355]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2022.06.09-15.26.48:046][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor48)
+[2022.06.09-15.26.53:705][473]Cmd: DUPLICATE
+[2022.06.09-15.26.53:705][473]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.27.08:857][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A14)
+[2022.06.09-15.27.09:853][434]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2022.06.09-15.27.10:692][483]Cmd: DUPLICATE
+[2022.06.09-15.27.10:692][483]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.27.17:389][876]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.27.35:007][924]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.27.46:552][609]LogEditorViewport: Clicking Background
+[2022.06.09-15.27.48:140][704]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.09-15.27.52:108][937]LogEditorViewport: Clicking Background
+[2022.06.09-15.27.54:895][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor51)
+[2022.06.09-15.28.03:965][643]LogEditorViewport: Clicking Background
+[2022.06.09-15.28.38:688][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor51)
+[2022.06.09-15.28.39:461][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided3)
+[2022.06.09-15.28.54:693][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.06.09-15.28.56:562][217]LogSlate: Window 'Save Content' being destroyed
+[2022.06.09-15.28.56:665][217]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Doors_BPF765A0094E4712407B62CAA980CF8631.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/Creative_part/ActiveDoor/Doors_BP.uasset'
+[2022.06.09-15.28.56:690][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.06.09-15.28.57:001][217]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2CB2B68C44EDEAFC3730BEDA31A31CA7D.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap'
+[2022.06.09-15.28.57:009][217]LogFileHelpers: Saving map 'Level_2' took 0.343
+[2022.06.09-15.28.57:531][217]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 1024X512)
+[2022.06.09-15.28.57:531][217]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.06.09-15.28.57:531][217]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.09-15.28.57:531][217]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.09-15.28.57:531][217]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2022.06.09-15.28.57:531][217]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2022.06.09-15.28.57:531][217]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.06.09-15.28.57:531][217]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.06.09-15.28.57:531][217]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.09-15.28.57:531][217]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.06.09-15.28.57:531][217]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.09-15.28.57:531][217]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.09-15.28.57:531][217]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2022.06.09-15.28.57:571][217]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_8.Map_8
+[2022.06.09-15.28.57:573][217]LightingResults: New page: Lighting Build
+[2022.06.09-15.28.57:573][217]LoadErrors: New page: Loading map: Map_8.umap
+[2022.06.09-15.28.57:601][217]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.28.57:603][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.28.57:603][217]MapCheck: New page: Map Check
+[2022.06.09-15.28.57:603][217]LightingResults: New page: Lighting Build
+[2022.06.09-15.28.57:632][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.28.57:648][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.06.09-15.28.57:707][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.06.09-15.28.57:734][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.09-15.28.57:735][217]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_8'.
+[2022.06.09-15.28.57:873][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.28.57:873][217]LogAIModule: Creating AISystem for world Map_8
+[2022.06.09-15.28.57:911][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.06.09-15.28.57:920][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.28.57:920][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,502ms to complete.
+[2022.06.09-15.28.57:920][217]LogFileHelpers: Loading map 'Map_8' took 0.348
+[2022.06.09-15.28.57:943][217]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.09-15.28.57:943][217]LogContentValidation: Display: Validating Blueprint /Game/Creative_part/ActiveDoor/Doors_BP.Doors_BP
+[2022.06.09-15.28.57:943][217]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.29.02:684][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.06.09-15.29.02:813][479]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_9.Map_9
+[2022.06.09-15.29.02:813][479]LightingResults: New page: Lighting Build
+[2022.06.09-15.29.02:813][479]LoadErrors: New page: Loading map: Map_9.umap
+[2022.06.09-15.29.02:816][479]LogWorld: UWorld::CleanupWorld for Map_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.29.02:816][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.29.02:816][479]MapCheck: New page: Map Check
+[2022.06.09-15.29.02:816][479]LightingResults: New page: Lighting Build
+[2022.06.09-15.29.02:840][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.29.02:845][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.06.09-15.29.02:874][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.06.09-15.29.02:897][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.09-15.29.02:918][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.09-15.29.02:919][479]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_9'.
+[2022.06.09-15.29.03:046][479]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.29.03:046][479]LogAIModule: Creating AISystem for world Map_9
+[2022.06.09-15.29.03:075][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.06.09-15.29.03:081][479]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.29.03:082][479]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,187ms to complete.
+[2022.06.09-15.29.03:082][479]LogFileHelpers: Loading map 'Map_9' took 0.268
+[2022.06.09-15.29.05:047][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.09-15.29.05:216][590]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_3.Map_3
+[2022.06.09-15.29.05:216][590]LightingResults: New page: Lighting Build
+[2022.06.09-15.29.05:216][590]LoadErrors: New page: Loading map: Map_3.umap
+[2022.06.09-15.29.05:253][590]LogWorld: UWorld::CleanupWorld for Map_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.29.05:254][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.29.05:254][590]MapCheck: New page: Map Check
+[2022.06.09-15.29.05:254][590]LightingResults: New page: Lighting Build
+[2022.06.09-15.29.05:279][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.29.05:285][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.06.09-15.29.05:314][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.06.09-15.29.05:336][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.06.09-15.29.05:360][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.09-15.29.05:361][590]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_3'.
+[2022.06.09-15.29.05:458][590]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.29.05:458][590]LogAIModule: Creating AISystem for world Map_3
+[2022.06.09-15.29.05:487][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.06.09-15.29.05:495][590]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.29.05:495][590]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,174ms to complete.
+[2022.06.09-15.29.05:495][590]LogFileHelpers: Loading map 'Map_3' took 0.279
+[2022.06.09-15.29.11:631][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.09-15.29.11:719][954]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_2.Map_2
+[2022.06.09-15.29.11:719][954]LightingResults: New page: Lighting Build
+[2022.06.09-15.29.11:720][954]LoadErrors: New page: Loading map: Map_2.umap
+[2022.06.09-15.29.11:723][954]LogWorld: UWorld::CleanupWorld for Map_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.29.11:723][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.29.11:723][954]MapCheck: New page: Map Check
+[2022.06.09-15.29.11:723][954]LightingResults: New page: Lighting Build
+[2022.06.09-15.29.11:748][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.29.11:754][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.06.09-15.29.11:781][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.06.09-15.29.11:805][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.06.09-15.29.11:830][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.09-15.29.11:830][954]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_2'.
+[2022.06.09-15.29.11:947][954]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.29.11:947][954]LogAIModule: Creating AISystem for world Map_2
+[2022.06.09-15.29.11:979][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.06.09-15.29.11:985][954]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.29.11:986][954]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,252ms to complete.
+[2022.06.09-15.29.11:986][954]LogFileHelpers: Loading map 'Map_2' took 0.267
+[2022.06.09-15.29.15:946][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.09-15.29.16:002][182]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_7_Top-Down.Map_7_Top-Down
+[2022.06.09-15.29.16:002][182]LightingResults: New page: Lighting Build
+[2022.06.09-15.29.16:002][182]LoadErrors: New page: Loading map: Map_7_Top-Down.umap
+[2022.06.09-15.29.16:005][182]LogWorld: UWorld::CleanupWorld for Map_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.29.16:006][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.29.16:006][182]MapCheck: New page: Map Check
+[2022.06.09-15.29.16:006][182]LightingResults: New page: Lighting Build
+[2022.06.09-15.29.16:028][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.29.16:034][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.06.09-15.29.16:059][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.06.09-15.29.16:082][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.06.09-15.29.16:105][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.09-15.29.16:105][182]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_7_Top-Down'.
+[2022.06.09-15.29.16:210][182]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.29.16:210][182]LogAIModule: Creating AISystem for world Map_7_Top-Down
+[2022.06.09-15.29.16:236][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.06.09-15.29.16:242][182]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.29.16:242][182]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,134ms to complete.
+[2022.06.09-15.29.16:242][182]LogFileHelpers: Loading map 'Map_7_Top-Down' took 0.239
+[2022.06.09-15.29.24:693][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.06.09-15.29.24:802][676]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_6_Top-Down.Map_6_Top-Down
+[2022.06.09-15.29.24:802][676]LightingResults: New page: Lighting Build
+[2022.06.09-15.29.24:802][676]LoadErrors: New page: Loading map: Map_6_Top-Down.umap
+[2022.06.09-15.29.24:804][676]LogWorld: UWorld::CleanupWorld for Map_7_Top-Down, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.29.24:805][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.29.24:805][676]MapCheck: New page: Map Check
+[2022.06.09-15.29.24:805][676]LightingResults: New page: Lighting Build
+[2022.06.09-15.29.24:829][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.29.24:835][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.06.09-15.29.24:860][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.06.09-15.29.24:882][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.09-15.29.24:906][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.09-15.29.24:907][676]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_6_Top-Down'.
+[2022.06.09-15.29.25:015][676]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.29.25:015][676]LogAIModule: Creating AISystem for world Map_6_Top-Down
+[2022.06.09-15.29.25:044][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.06.09-15.29.25:051][676]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.29.25:051][676]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,222ms to complete.
+[2022.06.09-15.29.25:051][676]LogFileHelpers: Loading map 'Map_6_Top-Down' took 0.250
+[2022.06.09-15.29.43:062][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor15)
+[2022.06.09-15.29.43:930][799]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor14)
+[2022.06.09-15.29.48:869][ 89]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wardrobe_2)
+[2022.06.09-15.29.49:706][137]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B24)
+[2022.06.09-15.29.50:751][198]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B25)
+[2022.06.09-15.29.51:696][253]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_CandleStick_Blueprint_C (SM_CandleStick_Blueprint3)
+[2022.06.09-15.29.53:035][332]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B27)
+[2022.06.09-15.29.53:805][377]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Curtain_Window3)
+[2022.06.09-15.29.55:007][448]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B26)
+[2022.06.09-15.29.56:295][524]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B29)
+[2022.06.09-15.29.57:133][573]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Lantern_1_Blueprint_C (SM_Lantern_1_Blueprint7)
+[2022.06.09-15.29.59:345][703]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WP_Shield_10)
+[2022.06.09-15.30.00:067][745]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Weapon_Stand_Gr_B_Blueprint_C (SM_Weapon_Stand_Gr_B_Blueprint)
+[2022.06.09-15.30.01:155][809]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B28)
+[2022.06.09-15.30.02:543][890]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B29)
+[2022.06.09-15.30.04:319][994]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Curtain_Window4)
+[2022.06.09-15.30.06:512][123]Cmd: TRANSACTION UNDO
+[2022.06.09-15.30.06:514][123]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.30.10:233][325]Cmd: TRANSACTION UNDO
+[2022.06.09-15.30.10:233][325]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.09-15.30.15:868][630]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B28)
+[2022.06.09-15.30.17:015][697]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Lantern_1_Blueprint_C (SM_Lantern_1_Blueprint8)
+[2022.06.09-15.30.17:953][752]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B31)
+[2022.06.09-15.30.18:643][792]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Cupboard_4_Gr_B_Blueprint_C (SM_Cupboard_4_Gr_B_Blueprint2)
+[2022.06.09-15.30.20:468][900]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B30)
+[2022.06.09-15.30.21:574][964]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B31)
+[2022.06.09-15.30.22:837][ 39]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Book_21)
+[2022.06.09-15.30.23:926][103]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Cupboard_10)
+[2022.06.09-15.30.25:277][183]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B32)
+[2022.06.09-15.30.26:097][231]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wardrobe_3)
+[2022.06.09-15.30.27:440][310]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wardrobe_3)
+[2022.06.09-15.30.31:249][537]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor13)
+[2022.06.09-15.30.31:959][578]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Carpet_1B2)
+[2022.06.09-15.30.32:949][636]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor12)
+[2022.06.09-15.30.34:222][711]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Chest3)
+[2022.06.09-15.30.34:995][756]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crate3)
+[2022.06.09-15.30.35:772][801]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor7)
+[2022.06.09-15.30.37:144][882]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crate_5)
+[2022.06.09-15.30.38:720][975]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor3)
+[2022.06.09-15.30.39:475][ 19]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Stair_small)
+[2022.06.09-15.30.49:453][608]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor9)
+[2022.06.09-15.30.50:424][665]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor8)
+[2022.06.09-15.30.51:576][733]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor10)
+[2022.06.09-15.30.52:582][792]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor11)
+[2022.06.09-15.30.55:834][985]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bed_2)
+[2022.06.09-15.30.58:743][157]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Lantern_2_Blueprint_C (SM_Lantern_2_Blueprint)
+[2022.06.09-15.30.59:932][227]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bench2)
+[2022.06.09-15.31.00:986][289]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bench)
+[2022.06.09-15.31.01:856][340]Cmd: EDIT COPY
+[2022.06.09-15.31.10:542][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.06.09-15.31.12:299][838]LogSlate: Window 'Save Content' being destroyed
+[2022.06.09-15.31.12:343][838]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.31.12:344][838]Cmd: MAP LOAD FILE="../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.09-15.31.12:344][838]LightingResults: New page: Lighting Build
+[2022.06.09-15.31.12:344][838]LoadErrors: New page: Loading map: Level_2.umap
+[2022.06.09-15.31.12:348][838]LogWorld: UWorld::CleanupWorld for Map_6_Top-Down, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.31.12:349][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.31.12:350][838]MapCheck: New page: Map Check
+[2022.06.09-15.31.12:350][838]LightingResults: New page: Lighting Build
+[2022.06.09-15.31.12:374][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.31.12:377][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.06.09-15.31.12:403][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.06.09-15.31.12:427][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.09-15.31.12:434][838]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_2'.
+[2022.06.09-15.31.12:557][838]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.31.12:558][838]LogAIModule: Creating AISystem for world Level_2
+[2022.06.09-15.31.12:587][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.06.09-15.31.12:593][838]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.31.12:594][838]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,175ms to complete.
+[2022.06.09-15.31.12:594][838]LogFileHelpers: Loading map 'Level_2' took 0.250
+[2022.06.09-15.31.15:388][  2]LogEditorViewport: Clicking Background
+[2022.06.09-15.31.16:239][ 53]Cmd: EDIT PASTE
+[2022.06.09-15.33.39:423][488]LogEditorViewport: Clicking Background
+[2022.06.09-15.33.48:682][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor44)
+[2022.06.09-15.33.49:435][ 86]Cmd: DELETE
+[2022.06.09-15.33.49:435][ 86]Cmd: ACTOR DELETE
+[2022.06.09-15.33.49:442][ 86]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.33.49:492][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.06.09-15.33.49:495][ 86]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.06.09-15.33.50:269][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stair_small)
+[2022.06.09-15.33.50:565][149]Cmd: DELETE
+[2022.06.09-15.33.50:565][149]Cmd: ACTOR DELETE
+[2022.06.09-15.33.50:570][149]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.09-15.33.50:598][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.09-15.33.50:599][149]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.06.09-15.33.51:472][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor54)
+[2022.06.09-15.33.52:382][255]Cmd: DUPLICATE
+[2022.06.09-15.33.52:382][255]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.33.59:263][666]LogEditorViewport: Clicking Background
+[2022.06.09-15.34.06:386][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor59)
+[2022.06.09-15.34.09:154][257]LogEditorViewport: Clicking Background
+[2022.06.09-15.34.11:134][375]Cmd: TRANSACTION UNDO
+[2022.06.09-15.34.11:134][375]LogEditorTransaction: Undo Clicking Background
+[2022.06.09-15.34.11:595][387]Cmd: TRANSACTION UNDO
+[2022.06.09-15.34.11:595][387]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.34.12:257][424]LogEditorViewport: Clicking Background
+[2022.06.09-15.34.21:510][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B27)
+[2022.06.09-15.34.22:074][  8]Cmd: DUPLICATE
+[2022.06.09-15.34.22:074][  8]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.34.29:702][462]Cmd: MODE ROTGRID=0
+[2022.06.09-15.34.30:350][500]LogEditorViewport: Clicking Background
+[2022.06.09-15.34.40:254][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B30)
+[2022.06.09-15.34.46:538][469]LogEditorViewport: Clicking Background
+[2022.06.09-15.34.52:729][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor57)
+[2022.06.09-15.34.55:080][979]Cmd: TRANSACTION UNDO
+[2022.06.09-15.34.55:080][979]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.34.55:737][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor58)
+[2022.06.09-15.34.56:771][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor56)
+[2022.06.09-15.34.58:948][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor57)
+[2022.06.09-15.35.01:726][352]LogEditorViewport: Clicking Background
+[2022.06.09-15.35.04:880][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor52)
+[2022.06.09-15.35.07:276][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor60)
+[2022.06.09-15.35.10:398][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor60)
+[2022.06.09-15.35.15:340][164]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor53)
+[2022.06.09-15.35.17:450][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor54)
+[2022.06.09-15.35.21:332][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor52)
+[2022.06.09-15.35.24:089][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B30)
+[2022.06.09-15.35.26:988][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B30)
+[2022.06.09-15.35.28:589][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor53)
+[2022.06.09-15.35.31:771][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B33)
+[2022.06.09-15.35.38:275][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B30)
+[2022.06.09-15.35.38:981][566]LogEditorViewport: Clicking Background
+[2022.06.09-15.35.42:017][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B33)
+[2022.06.09-15.35.50:617][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor53)
+[2022.06.09-15.35.55:859][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor55)
+[2022.06.09-15.35.56:501][612]Cmd: DUPLICATE
+[2022.06.09-15.35.56:501][612]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.36.04:012][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor53)
+[2022.06.09-15.36.07:124][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor61)
+[2022.06.09-15.36.10:180][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor53)
+[2022.06.09-15.36.11:532][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor55)
+[2022.06.09-15.36.13:617][627]LogEditorViewport: Clicking Background
+[2022.06.09-15.36.18:243][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B33)
+[2022.06.09-15.36.20:340][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor53)
+[2022.06.09-15.36.21:617][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B30)
+[2022.06.09-15.36.26:067][368]LogEditorViewport: Clicking Background
+[2022.06.09-15.36.28:538][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B30)
+[2022.06.09-15.36.31:821][711]LogEditorViewport: Clicking Background
+[2022.06.09-15.36.41:127][269]LogEditorViewport: Clicking on Actor (LMB): SM_Lantern_1_Blueprint_C (SM_Lantern_1_Blueprint8)
+[2022.06.09-15.36.41:932][316]Cmd: DELETE
+[2022.06.09-15.36.41:932][316]Cmd: ACTOR DELETE
+[2022.06.09-15.36.41:936][316]LogEditorActor: Deleted Actor: SM_Lantern_1_Blueprint_C
+[2022.06.09-15.36.41:963][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.06.09-15.36.41:966][316]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.06.09-15.36.43:939][435]LogEditorViewport: Clicking on Actor (LMB): SM_Lantern_2_Blueprint_C (SM_Lantern_2_Blueprint3)
+[2022.06.09-15.36.44:356][459]Cmd: DELETE
+[2022.06.09-15.36.44:356][459]Cmd: ACTOR DELETE
+[2022.06.09-15.36.44:365][459]LogEditorActor: Deleted Actor: SM_Lantern_2_Blueprint_C
+[2022.06.09-15.36.44:392][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.06.09-15.36.44:394][459]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.06.09-15.36.46:434][582]LogEditorViewport: Clicking on Actor (LMB): SM_Lantern_1_Blueprint_C (SM_Lantern_1_Blueprint7)
+[2022.06.09-15.36.46:828][605]Cmd: DELETE
+[2022.06.09-15.36.46:828][605]Cmd: ACTOR DELETE
+[2022.06.09-15.36.46:832][605]LogEditorActor: Deleted Actor: SM_Lantern_1_Blueprint_C
+[2022.06.09-15.36.46:858][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.06.09-15.36.46:860][605]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.06.09-15.36.48:383][697]LogEditorViewport: Clicking on Actor (LMB): SM_CandleStick_Blueprint_C (SM_CandleStick_Blueprint3)
+[2022.06.09-15.36.48:816][722]Cmd: DELETE
+[2022.06.09-15.36.48:816][722]Cmd: ACTOR DELETE
+[2022.06.09-15.36.48:820][722]LogEditorActor: Deleted Actor: SM_CandleStick_Blueprint_C
+[2022.06.09-15.36.48:844][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.06.09-15.36.48:845][722]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.06.09-15.36.54:679][ 72]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.09-15.36.55:907][144]Cmd: EDIT COPY
+[2022.06.09-15.37.01:401][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B31)
+[2022.06.09-15.37.02:012][508]Cmd: EDIT PASTE
+[2022.06.09-15.37.26:196][941]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.37.35:664][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor52)
+[2022.06.09-15.37.37:883][629]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.06.09-15.37.44:226][  8]Cmd: DUPLICATE
+[2022.06.09-15.37.44:226][  8]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.37.48:951][290]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.09-15.37.49:262][308]Cmd: DELETE
+[2022.06.09-15.37.49:262][308]Cmd: ACTOR DELETE
+[2022.06.09-15.37.49:267][308]LogEditorActor: Deleted Actor: PointLight
+[2022.06.09-15.37.49:291][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.06.09-15.37.49:295][308]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.06.09-15.37.56:238][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Curtain_Window3)
+[2022.06.09-15.37.57:019][770]Cmd: DUPLICATE
+[2022.06.09-15.37.57:019][770]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.38.01:287][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor60)
+[2022.06.09-15.38.04:935][240]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor51)
+[2022.06.09-15.38.05:742][284]LogEditorViewport: Clicking Background
+[2022.06.09-15.38.06:643][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B35)
+[2022.06.09-15.38.14:313][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.06.09-15.38.14:663][794]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2BC7579DA41804CD91A4096A501D4D949.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap'
+[2022.06.09-15.38.15:059][794]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2_BuiltData0284970C4E68021B4A38789AF42C6362.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset'
+[2022.06.09-15.38.15:078][794]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.09-15.38.15:078][794]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.38.15:078][794]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2022.06.09-15.38.35:009][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.06.09-15.38.35:052][646]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_7_Top-Down.Map_7_Top-Down
+[2022.06.09-15.38.35:052][646]LightingResults: New page: Lighting Build
+[2022.06.09-15.38.35:052][646]LoadErrors: New page: Loading map: Map_7_Top-Down.umap
+[2022.06.09-15.38.35:083][646]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.38.35:083][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.38.35:083][646]MapCheck: New page: Map Check
+[2022.06.09-15.38.35:083][646]LightingResults: New page: Lighting Build
+[2022.06.09-15.38.35:105][646]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.38.35:111][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.06.09-15.38.35:137][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.06.09-15.38.35:159][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.06.09-15.38.35:160][646]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_7_Top-Down'.
+[2022.06.09-15.38.35:261][646]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.38.35:261][646]LogAIModule: Creating AISystem for world Map_7_Top-Down
+[2022.06.09-15.38.35:287][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.06.09-15.38.35:293][646]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.38.35:293][646]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,139ms to complete.
+[2022.06.09-15.38.35:293][646]LogFileHelpers: Loading map 'Map_7_Top-Down' took 0.241
+[2022.06.09-15.38.46:175][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.09-15.38.46:234][293]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_6_Top-Down.Map_6_Top-Down
+[2022.06.09-15.38.46:234][293]LightingResults: New page: Lighting Build
+[2022.06.09-15.38.46:234][293]LoadErrors: New page: Loading map: Map_6_Top-Down.umap
+[2022.06.09-15.38.46:262][293]LogWorld: UWorld::CleanupWorld for Map_7_Top-Down, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.38.46:262][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.38.46:262][293]MapCheck: New page: Map Check
+[2022.06.09-15.38.46:264][293]LightingResults: New page: Lighting Build
+[2022.06.09-15.38.46:300][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.38.46:305][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.06.09-15.38.46:335][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.06.09-15.38.46:357][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.09-15.38.46:358][293]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_6_Top-Down'.
+[2022.06.09-15.38.46:457][293]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.38.46:458][293]LogAIModule: Creating AISystem for world Map_6_Top-Down
+[2022.06.09-15.38.46:486][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.06.09-15.38.46:492][293]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.38.46:493][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,207ms to complete.
+[2022.06.09-15.38.46:493][293]LogFileHelpers: Loading map 'Map_6_Top-Down' took 0.259
+[2022.06.09-15.38.51:209][572]LogEditorViewport: Clicking on Actor (LMB): SM_CandleStick_Blueprint_C (SM_CandleStick_Blueprint3)
+[2022.06.09-15.38.56:852][908]Cmd: EDIT COPY
+[2022.06.09-15.39.00:115][102]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Lantern_1_Blueprint_C (SM_Lantern_1_Blueprint6)
+[2022.06.09-15.39.00:977][152]Cmd: EDIT COPY
+[2022.06.09-15.39.07:275][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.06.09-15.39.07:348][520]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.39.07:348][520]Cmd: MAP LOAD FILE="../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.09-15.39.07:348][520]LightingResults: New page: Lighting Build
+[2022.06.09-15.39.07:348][520]LoadErrors: New page: Loading map: Level_2.umap
+[2022.06.09-15.39.07:352][520]LogWorld: UWorld::CleanupWorld for Map_6_Top-Down, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.39.07:352][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.39.07:353][520]MapCheck: New page: Map Check
+[2022.06.09-15.39.07:353][520]LightingResults: New page: Lighting Build
+[2022.06.09-15.39.07:376][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.39.07:382][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.06.09-15.39.07:406][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.06.09-15.39.07:428][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.06.09-15.39.07:429][520]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_2'.
+[2022.06.09-15.39.07:550][520]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.39.07:550][520]LogAIModule: Creating AISystem for world Level_2
+[2022.06.09-15.39.07:580][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.06.09-15.39.07:586][520]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.39.07:586][520]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,184ms to complete.
+[2022.06.09-15.39.07:586][520]LogFileHelpers: Loading map 'Level_2' took 0.238
+[2022.06.09-15.39.15:712][  4]Cmd: EDIT PASTE
+[2022.06.09-15.39.19:660][239]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.39.26:363][630]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.39.47:112][862]LogEditorViewport: Clicking on Actor (LMB): SM_CandleStick_Blueprint_C (SM_CandleStick_Blueprint3)
+[2022.06.09-15.39.54:068][276]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.39.59:709][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B26)
+[2022.06.09-15.40.03:315][825]LogEditorViewport: Clicking on Actor (LMB): SM_Lantern_1_Blueprint_C (SM_Lantern_1_Blueprint7)
+[2022.06.09-15.40.10:308][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B35)
+[2022.06.09-15.40.12:880][393]LogEditorViewport: Clicking Background
+[2022.06.09-15.40.13:184][411]LogEditorViewport: Clicking Background
+[2022.06.09-15.40.15:929][574]LogEditorViewport: Clicking on Actor (LMB): SM_Lantern_1_Blueprint_C (SM_Lantern_1_Blueprint7)
+[2022.06.09-15.40.19:818][805]LogEditorViewport: Clicking Background
+[2022.06.09-15.40.20:110][822]LogEditorViewport: Clicking Background
+[2022.06.09-15.40.22:813][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3C_Door_TwoSided2)
+[2022.06.09-15.40.26:473][199]LogEditorViewport: Clicking on Actor (LMB): SM_Lantern_1_Blueprint_C (SM_Lantern_1_Blueprint7)
+[2022.06.09-15.40.30:418][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B29)
+[2022.06.09-15.40.34:490][675]LogEditorViewport: Clicking on Actor (LMB): SM_Lantern_1_Blueprint_C (SM_Lantern_1_Blueprint7)
+[2022.06.09-15.40.37:461][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Curtain_Window3)
+[2022.06.09-15.40.46:812][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor51)
+[2022.06.09-15.40.49:683][575]LogEditorViewport: Clicking Background
+[2022.06.09-15.40.52:251][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor51)
+[2022.06.09-15.40.58:559][104]LogEditorViewport: Clicking Background
+[2022.06.09-15.41.01:066][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor51)
+[2022.06.09-15.41.03:766][413]LogEditorViewport: Clicking Background
+[2022.06.09-15.45.35:012][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.09-15.45.35:381][106]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2D61815FC4212F824F7723CB7D656A2BD.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap'
+[2022.06.09-15.45.35:750][106]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2_BuiltData7E982FA04358BA177557ABBB1C5C4FF6.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset'
+[2022.06.09-15.45.35:765][106]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.09-15.45.35:765][106]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.45.35:765][106]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2022.06.09-15.45.43:506][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.06.09-15.45.43:541][543]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyMedievalConstructions/Maps/Map_1.Map_1
+[2022.06.09-15.45.43:542][543]LightingResults: New page: Lighting Build
+[2022.06.09-15.45.43:542][543]LoadErrors: New page: Loading map: Map_1.umap
+[2022.06.09-15.45.43:582][543]LogWorld: UWorld::CleanupWorld for Level_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.45.43:583][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.45.43:583][543]MapCheck: New page: Map Check
+[2022.06.09-15.45.43:583][543]LightingResults: New page: Lighting Build
+[2022.06.09-15.45.43:608][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.45.43:612][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.06.09-15.45.43:639][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.06.09-15.45.43:660][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.09-15.45.43:661][543]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_1'.
+[2022.06.09-15.45.43:780][543]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.45.43:780][543]LogAIModule: Creating AISystem for world Map_1
+[2022.06.09-15.45.43:811][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.06.09-15.45.43:817][543]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.45.43:818][543]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,264ms to complete.
+[2022.06.09-15.45.43:818][543]LogFileHelpers: Loading map 'Map_1' took 0.277
+[2022.06.09-15.46.16:177][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.06.09-15.46.16:251][130]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.46.16:251][130]Cmd: MAP LOAD FILE="../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.09-15.46.16:251][130]LightingResults: New page: Lighting Build
+[2022.06.09-15.46.16:252][130]LoadErrors: New page: Loading map: Level_2.umap
+[2022.06.09-15.46.16:293][130]LogWorld: UWorld::CleanupWorld for Map_1, bSessionEnded=true, bCleanupResources=true
+[2022.06.09-15.46.16:293][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.09-15.46.16:293][130]MapCheck: New page: Map Check
+[2022.06.09-15.46.16:294][130]LightingResults: New page: Lighting Build
+[2022.06.09-15.46.16:320][130]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.09-15.46.16:325][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.06.09-15.46.16:351][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.06.09-15.46.16:371][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.09-15.46.16:372][130]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_2'.
+[2022.06.09-15.46.16:494][130]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.09-15.46.16:495][130]LogAIModule: Creating AISystem for world Level_2
+[2022.06.09-15.46.16:523][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.06.09-15.46.16:529][130]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.09-15.46.16:530][130]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,233ms to complete.
+[2022.06.09-15.46.16:530][130]LogFileHelpers: Loading map 'Level_2' took 0.278
+[2022.06.09-15.46.56:826][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor49)
+[2022.06.09-15.46.57:782][370]Cmd: DUPLICATE
+[2022.06.09-15.46.57:782][370]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.47.11:690][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor46)
+[2022.06.09-15.47.21:411][777]LogEditorViewport: Clicking on Actor (LMB): SM_CandleStick_Blueprint_C (SM_CandleStick_Blueprint3)
+[2022.06.09-15.47.23:393][894]Cmd: DUPLICATE
+[2022.06.09-15.47.23:393][894]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.47.28:539][199]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.47.42:370][ 27]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.47.46:673][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B34)
+[2022.06.09-15.48.02:256][441]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2022.06.09-15.48.03:072][517]Cmd: DUPLICATE
+[2022.06.09-15.48.03:072][517]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.48.56:491][593]LogEditorViewport: Clicking Background
+[2022.06.09-15.48.56:493][593]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.09-15.49.13:678][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.06.09-15.49.14:096][617]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2256D76064E1A8845FFA840A7E25D97B6.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap'
+[2022.06.09-15.49.14:480][617]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2_BuiltData85C4227C496E45F9F259EC8C59EA6149.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset'
+[2022.06.09-15.49.14:496][617]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.09-15.49.14:496][617]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.49.14:496][617]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2022.06.09-15.49.30:312][206]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.09-15.49.31:277][304]Cmd: DUPLICATE
+[2022.06.09-15.49.31:277][304]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.49.34:056][581]LogEditorViewport: Clicking Background
+[2022.06.09-15.49.34:740][654]Cmd: TRANSACTION UNDO
+[2022.06.09-15.49.34:740][654]LogEditorTransaction: Undo Clicking Background
+[2022.06.09-15.49.49:038][ 20]LogEditorViewport: Clicking Background
+[2022.06.09-15.49.49:395][ 60]LogEditorViewport: Clicking Background
+[2022.06.09-15.49.52:461][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor62)
+[2022.06.09-15.49.57:449][949]LogEditorViewport: Clicking Background
+[2022.06.09-15.50.05:075][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor62)
+[2022.06.09-15.50.07:511][919]LogEditorViewport: Clicking Background
+[2022.06.09-15.50.16:900][ 15]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP5)
+[2022.06.09-15.50.17:908][127]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP5)
+[2022.06.09-15.50.28:627][300]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP5)
+[2022.06.09-15.50.31:480][600]LogEditorViewport: Clicking Background
+[2022.06.09-15.50.37:951][344]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP4)
+[2022.06.09-15.50.43:688][  5]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Wall_3A_TwoSided3)
+[2022.06.09-15.50.44:616][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided3)
+[2022.06.09-15.50.50:307][706]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP3)
+[2022.06.09-15.50.53:766][104]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP3)
+[2022.06.09-15.51.04:004][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.06.09-15.51.04:390][169]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_23230ED304852F101F1EDEA8EB3A5968D.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap'
+[2022.06.09-15.51.04:704][169]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2_BuiltData4CB8D98F466BD5036E454A951BCD751B.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset'
+[2022.06.09-15.51.04:719][169]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.09-15.51.04:719][169]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-15.51.04:719][169]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2022.06.09-15.52.03:420][  4]LogActorFactory: Actor Factory created SM_Wall_1A
+[2022.06.09-15.52.06:849][334]LogActorFactory: Actor Factory created SM_Wall_1A
+[2022.06.09-15.52.08:120][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-15.52.09:815][630]Cmd: TRANSACTION UNDO
+[2022.06.09-15.52.09:815][630]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.52.32:159][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3C_Door_TwoSided3)
+[2022.06.09-15.52.33:306][941]LogEditorViewport: Clicking on Actor (CTRL LMB): Doors_BP_C (Doors_BP5)
+[2022.06.09-15.52.59:104][735]Cmd: TRANSACTION UNDO
+[2022.06.09-15.52.59:104][735]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.52.59:666][753]Cmd: TRANSACTION UNDO
+[2022.06.09-15.52.59:666][753]LogEditorTransaction: Undo Move Actors
+[2022.06.09-15.53.00:783][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3A_TwoSided2)
+[2022.06.09-15.53.04:037][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor49)
+[2022.06.09-15.53.36:080][ 39]LogActorFactory: Actor Factory created SM_Wall_1A
+[2022.06.09-15.53.38:611][238]LogEditorViewport: Clicking Background
+[2022.06.09-15.55.23:409][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A9)
+[2022.06.09-15.55.36:054][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor62)
+[2022.06.09-15.55.39:768][787]Cmd: DUPLICATE
+[2022.06.09-15.55.39:768][787]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.55.47:010][589]LogEditorViewport: Clicking Background
+[2022.06.09-15.55.59:188][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor63)
+[2022.06.09-15.55.59:805][ 70]Cmd: DUPLICATE
+[2022.06.09-15.55.59:805][ 70]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.56.06:259][734]LogEditorViewport: Clicking Background
+[2022.06.09-15.56.33:823][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor63)
+[2022.06.09-15.56.35:165][466]Cmd: DUPLICATE
+[2022.06.09-15.56.35:165][466]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.56.45:459][563]LogEditorViewport: Clicking Background
+[2022.06.09-15.56.49:720][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor64)
+[2022.06.09-15.56.52:775][365]Cmd: DUPLICATE
+[2022.06.09-15.56.52:775][365]Cmd: ACTOR DUPLICATE
+[2022.06.09-15.57.05:663][725]LogEditorViewport: Clicking Background
+[2022.06.09-16.01.04:220][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.06.09-16.01.04:604][565]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2_Auto4AB4523B24B925C628430C3B7285BF6E9.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level_2_Auto4.umap'
+[2022.06.09-16.01.04:607][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Level_2' took 0.412
+[2022.06.09-16.01.04:607][565]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.412
+[2022.06.09-16.02.56:956][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor66)
+[2022.06.09-16.02.57:702][560]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Floor65)
+[2022.06.09-16.02.58:792][682]Cmd: DUPLICATE
+[2022.06.09-16.02.58:792][682]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.03.09:588][916]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.03.20:568][122]Cmd: DUPLICATE
+[2022.06.09-16.03.20:568][122]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.03.22:303][315]LogEditorViewport: Clicking Background
+[2022.06.09-16.03.23:249][427]Cmd: TRANSACTION UNDO
+[2022.06.09-16.03.23:249][427]LogEditorTransaction: Undo Clicking Background
+[2022.06.09-16.03.27:158][794]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.03.32:469][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor70)
+[2022.06.09-16.03.33:481][473]Cmd: TRANSACTION UNDO
+[2022.06.09-16.03.33:481][473]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.09-16.03.36:056][691]LogEditorViewport: Clicking Background
+[2022.06.09-16.03.37:395][848]Cmd: TRANSACTION UNDO
+[2022.06.09-16.03.37:395][848]LogEditorTransaction: Undo Clicking Background
+[2022.06.09-16.03.40:737][165]LogEditorViewport: Clicking Background
+[2022.06.09-16.04.23:908][215]LogActorFactory: Actor Factory created SM_Wall_1A
+[2022.06.09-16.04.24:751][294]LogActorFactory: Actor Factory created SM_Wall_1A
+[2022.06.09-16.04.37:560][627]Cmd: MODE SCALEGRID=1
+[2022.06.09-16.04.40:541][936]Cmd: TRANSACTION UNDO
+[2022.06.09-16.04.40:541][936]LogEditorTransaction: Undo Rotate Actors
+[2022.06.09-16.04.44:541][273]Cmd: MODE ROTGRID=1
+[2022.06.09-16.04.48:649][707]LogEditorViewport: Clicking Background
+[2022.06.09-16.04.50:595][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A27)
+[2022.06.09-16.05.19:131][778]LogActorFactory: Actor Factory created SM_Wall_1A_Window_2
+[2022.06.09-16.05.22:108][ 51]LogActorFactory: Actor Factory created SM_Wall_1A_Window_2
+[2022.06.09-16.05.44:616][510]LogEditorViewport: Clicking Background
+[2022.06.09-16.06.03:599][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B31)
+[2022.06.09-16.06.17:742][ 10]LogActorFactory: Actor Factory created SM_Wall_1A
+[2022.06.09-16.06.18:398][ 63]LogActorFactory: Actor Factory created SM_Wall_1A
+[2022.06.09-16.06.27:821][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor63)
+[2022.06.09-16.06.35:087][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Window_2)
+[2022.06.09-16.06.35:732][  5]Cmd: DUPLICATE
+[2022.06.09-16.06.35:732][  5]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.06.44:188][959]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.06.53:703][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A28)
+[2022.06.09-16.06.54:238][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor65)
+[2022.06.09-16.06.57:246][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Window_5)
+[2022.06.09-16.07.02:843][  8]LogEditorViewport: Clicking Background
+[2022.06.09-16.07.06:173][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Window_5)
+[2022.06.09-16.07.08:451][638]LogEditorViewport: Clicking Background
+[2022.06.09-16.07.08:744][672]LogEditorViewport: Clicking Background
+[2022.06.09-16.07.25:385][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Window_5)
+[2022.06.09-16.07.46:617][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A28)
+[2022.06.09-16.07.53:268][538]Cmd: DUPLICATE
+[2022.06.09-16.07.53:268][538]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.08.01:223][424]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.08.06:204][985]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2022.06.09-16.08.09:982][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A29)
+[2022.06.09-16.08.12:056][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor67)
+[2022.06.09-16.08.20:032][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A29)
+[2022.06.09-16.08.23:494][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Window_5)
+[2022.06.09-16.08.29:752][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A29)
+[2022.06.09-16.08.32:306][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor67)
+[2022.06.09-16.08.40:807][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A29)
+[2022.06.09-16.08.41:724][909]Cmd: DUPLICATE
+[2022.06.09-16.08.41:724][909]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.08.55:824][531]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.09.02:329][256]LogEditorViewport: Clicking Background
+[2022.06.09-16.09.05:947][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A30)
+[2022.06.09-16.09.06:634][735]Cmd: DUPLICATE
+[2022.06.09-16.09.06:634][735]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.09.11:439][277]LogEditorViewport: Clicking Background
+[2022.06.09-16.09.13:637][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A31)
+[2022.06.09-16.09.17:195][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor69)
+[2022.06.09-16.09.56:005][986]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.06.09-16.10.03:267][738]Cmd: TRANSACTION UNDO
+[2022.06.09-16.10.03:267][738]LogEditorTransaction: Undo Move Actors
+[2022.06.09-16.10.03:969][760]Cmd: TRANSACTION UNDO
+[2022.06.09-16.10.03:969][760]LogEditorTransaction: Undo Move Actors
+[2022.06.09-16.10.04:775][846]Cmd: DUPLICATE
+[2022.06.09-16.10.04:775][846]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.10.09:019][277]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.10.18:776][353]Cmd: DUPLICATE
+[2022.06.09-16.10.18:776][353]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.10.25:660][ 75]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2022.06.09-16.10.57:806][278]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.09-16.11.14:255][838]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.09-16.12.15:207][237]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.09-16.12.25:324][174]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.09-16.12.29:160][584]LogEditorViewport: Clicking Background
+[2022.06.09-16.13.07:053][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.06.09-16.13.07:451][207]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2_Auto5349765F940E3ABD094EBABA2D00A80C0.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Autosaves/Game/ThirdPersonBP/Maps/Level_2_Auto5.umap'
+[2022.06.09-16.13.07:453][207]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/Level_2' took 0.426
+[2022.06.09-16.13.07:453][207]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.426
+[2022.06.09-16.13.23:229][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A30)
+[2022.06.09-16.13.23:988][786]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_1A29)
+[2022.06.09-16.13.24:796][875]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_1A31)
+[2022.06.09-16.13.25:825][990]Cmd: DUPLICATE
+[2022.06.09-16.13.25:825][990]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.13.35:717][119]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.14.05:602][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A27)
+[2022.06.09-16.14.06:684][566]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_1A28)
+[2022.06.09-16.14.10:138][960]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_1A9)
+[2022.06.09-16.14.10:956][ 50]Cmd: DUPLICATE
+[2022.06.09-16.14.10:956][ 50]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.14.33:848][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A32)
+[2022.06.09-16.14.35:045][608]Cmd: DUPLICATE
+[2022.06.09-16.14.35:045][608]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.14.47:375][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor69)
+[2022.06.09-16.14.51:927][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A38)
+[2022.06.09-16.14.54:280][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor66)
+[2022.06.09-16.15.00:917][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A38)
+[2022.06.09-16.15.01:479][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A37)
+[2022.06.09-16.15.03:673][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor63)
+[2022.06.09-16.15.11:797][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A36)
+[2022.06.09-16.15.14:162][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A9)
+[2022.06.09-16.15.16:641][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A35)
+[2022.06.09-16.15.23:246][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A9)
+[2022.06.09-16.15.28:144][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A35)
+[2022.06.09-16.15.37:979][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A9)
+[2022.06.09-16.15.56:871][841]LogEditorViewport: Clicking Background
+[2022.06.09-16.15.57:623][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A35)
+[2022.06.09-16.15.59:526][143]LogEditorViewport: Clicking Background
+[2022.06.09-16.16.11:594][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A36)
+[2022.06.09-16.16.14:610][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A27)
+[2022.06.09-16.16.18:268][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A35)
+[2022.06.09-16.16.27:704][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A36)
+[2022.06.09-16.16.40:549][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A9)
+[2022.06.09-16.16.44:070][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A36)
+[2022.06.09-16.16.45:095][245]Cmd: DUPLICATE
+[2022.06.09-16.16.45:095][245]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.16.49:927][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A_Window_2)
+[2022.06.09-16.16.50:637][868]Cmd: TRANSACTION UNDO
+[2022.06.09-16.16.50:637][868]LogEditorTransaction: Undo Clicking on Actors
+[2022.06.09-16.17.10:358][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A37)
+[2022.06.09-16.17.14:125][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A38)
+[2022.06.09-16.17.22:599][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A36)
+[2022.06.09-16.17.26:066][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_1A27)
+[2022.06.09-16.17.42:480][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B35)
+[2022.06.09-16.17.44:055][709]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B27)
+[2022.06.09-16.17.44:699][775]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B26)
+[2022.06.09-16.17.45:316][837]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B29)
+[2022.06.09-16.17.47:145][ 36]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B31)
+[2022.06.09-16.17.48:047][125]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B33)
+[2022.06.09-16.17.49:702][295]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B32)
+[2022.06.09-16.17.50:746][405]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Wall_3B34)
+[2022.06.09-16.17.52:395][477]Cmd: DUPLICATE
+[2022.06.09-16.17.52:395][477]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.18.00:070][717]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.18.00:730][739]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.18.30:786][728]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.18.55:390][497]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor52)
+[2022.06.09-16.18.59:292][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B39)
+[2022.06.09-16.19.00:041][665]Cmd: DUPLICATE
+[2022.06.09-16.19.00:041][665]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.19.07:032][910]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.09-16.19.12:803][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B26)
+[2022.06.09-16.19.13:151][ 90]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.06.09-16.19.14:379][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B44)
+[2022.06.09-16.19.18:647][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B28)
+[2022.06.09-16.19.19:370][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B44)
+[2022.06.09-16.19.22:312][402]LogEditorViewport: Clicking Background
+[2022.06.09-16.19.22:600][412]LogEditorViewport: Clicking Background
+[2022.06.09-16.19.31:401][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B44)
+[2022.06.09-16.19.35:089][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B31)
+[2022.06.09-16.19.52:456][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_3B41)
+[2022.06.09-16.19.53:188][498]Cmd: DUPLICATE
+[2022.06.09-16.19.53:188][498]Cmd: ACTOR DUPLICATE
+[2022.06.09-16.20.07:712][ 38]LogEditorViewport: Clicking Background
+[2022.06.09-16.20.17:413][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.06.09-16.20.17:805][356]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_283A254534E005D944FCFF8AAB4765846.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2.umap'
+[2022.06.09-16.20.18:087][356]LogSavePackage: Moving '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Saved/Level_2_BuiltData406294234602A989266F78B72617087D.tmp' to '../../../../../../Users/r.zuietir/Documents/GitHub/deadInsideTheDungeon/deadInsideTheDungeon/Content/ThirdPersonBP/Maps/Level_2_BuiltData.uasset'
+[2022.06.09-16.20.18:104][356]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.09-16.20.18:104][356]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_2.Level_2
+[2022.06.09-16.20.18:104][356]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_2_BuiltData.Level_2_BuiltData
+[2022.06.09-16.20.38:917][562]LogEditorViewport: Clicking on Actor (LMB): Doors_BP_C (Doors_BP3)
